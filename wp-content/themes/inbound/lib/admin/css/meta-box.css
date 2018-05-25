@@ -1,0 +1,289 @@
+/**
+ * All Types Meta Box Class CSS
+ *
+ * CSS used for the custom metaboxes and other form items.
+ *
+ * Copyright 2011 Ohad Raz (admin@bainternet.info)
+ * Copyright 2013 ShapingRain (support@shapingrain.com)
+ */
+
+/* =Common Rules for all fields.
+----------------------------------------------- */
+.form-table td.at-field {
+    padding: 8px 5px 8px;
+    margin: 0px;
+    border-bottom: solid 1px #eee;
+}
+
+.form-table td.at-field.no-bottom-border {
+	border-bottom: 0!important;
+}
+
+
+.at-label {
+    margin: 0 0 5px 0;
+    padding: 5px 0 0 0;
+    text-shadow: rgba(255, 255, 255, 1) 0 1px 0;
+    width: auto;
+}
+
+.at-checkbox-label {
+	font-size:12px;
+	color:#999;
+}
+
+.at-radio-label {
+    padding-right: 10px;
+}
+.at-checkbox-label {
+    padding-left: 5px;
+}
+
+ul.at-checkbox-list li {
+	display:block;
+}
+
+.at-file-upload-label {
+    clear: both;
+    margin: 5px 0px 5px 1px;
+}
+
+/* =Form Fields
+----------------------------------------------- */
+.postbox .at-field input.at-color{ border: 0px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; margin-right: 10px; min-width: 100px; }
+.at-field input:focus,
+.at-field textarea:focus { background: #fffff8; }
+#wpcontent select.at-select { display: block; min-width: 200px; }
+.at-field .desc-field { color: #AAA; font-style: italic; margin: 5px 0 0 3px !important; font-size: 13px; }
+.at-field .wp_themeSkin table.mceLayout{ border: 1px solid #DFDFDF; }
+
+.at-field .at-label .desc-field {
+    margin: 5px 0 0 0 !important;
+}
+
+.form-table td.at-field.at-field-last {
+    border-bottom:0 !important;
+}
+
+
+/* =Uploaded Images
+----------------------------------------------- */
+.at-images li { margin: 5px 10px 0px 0; float: left; width: 150px; height: 150px; text-align: center; border: 3px solid #ccc; cursor: move; position: relative; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
+.at-images img { width: 150px; height: 150px; }
+.at-images a { position: absolute; top: -12px; right: -12px; color: #fff;  font-weight: bold; padding: 5px; }
+.at-images .at-delete-file img{ width: 16px; height: 16px; }
+
+.simplePanelImagePreview img {
+	max-width:200px;
+	height:auto;
+}
+
+/* =Upload Button
+----------------------------------------------- */
+.at-upload-button { float: left; clear: both; margin-top: 10px; }
+.at-add-file { float: left; clear: both; margin-top: 10px; }
+
+/* =Time Picker
+----------------------------------------------- */
+.ui-timepicker-div { font-size: 0.9em; }
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { height: 25px; }
+.ui-timepicker-div dl dd { margin: -25px 0 10px 65px; }
+.ui-timepicker-div td { font-size: 90%; }
+
+/* =Repeater Block
+----------------------------------------------- */
+/* inline */
+.at-inline label{font-size: 12px !important;}
+.at-inline textarea{height: 130px;width: 200px;}
+
+.ui-sortable li{cursor: move;}
+.ui-sortable .at-repeater-block{cursor: move;}
+
+.at-re-toggle,
+.at-re-add {
+	display:inline-block;
+	margin:5px !important;
+	background: #ddd;
+}
+
+.at-re-toggle:before {
+	content: "\f464";
+}
+
+.at-re-remove:before {
+	content: "\f158";
+}
+
+.at-re-add:before {
+	content: "\f132";
+}
+
+.at-icon:before {
+	font: normal 20px/1 'dashicons';
+	speak: none;
+	padding: 5px 2px 5px 2px;
+	height: 34px;
+	width: 20px;
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-transition: all .1s ease-in-out;
+	-moz-transition:    all .1s ease-in-out;
+	transition:         all .1s ease-in-out;
+}
+
+.button-warning:before {
+	color: #bc0b0b !important;
+}
+
+.at-font-color-preview {
+	display:inline-block;
+	width:13px;
+	border:1px solid #000;
+}
+
+
+/*
+ Tooltips
+*/
+.label-desc {
+	display:inline-block;
+	background:#fff;
+	color:#666;
+	border:1px solid #e1e1e1;
+	line-height: 17px;
+	margin-left:5px;
+	padding:2px 6px 1px 6px;
+	font-weight: normal;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.tip {
+	background-color: black;
+	background-color: rgba(0, 0, 0, 0.8);
+	color: #fff;
+	font-size: 12px;
+	line-height: 16px;
+	max-width: 300px;
+	padding: 6px 8px;
+}
+.tip.success {
+	background-color: #47fe42;
+	background-color: rgba(71, 254, 66, 0.8);
+	color: #025600;
+}
+.tip.error {
+	background-color: #ff7f86;
+	background-color: rgba(255, 127, 134, 0.8);
+	color: #7f0006;
+}
+.tip.light {
+	background-color: #ebebeb;
+	background-color: rgba(235, 235, 235, 0.8);
+	color: #222222;
+}
+
+.tip[class*="arrow"]:before {
+	content: ' ';
+	position: absolute;
+	border: solid transparent;
+	width: 0px;
+	height: 0px;
+	border-width: 5px;
+	border-color: black;
+	border-color: rgba(0, 0, 0, 0.8);
+}
+
+.success[class*="arrow"]:before {
+	border-color: #47fe42;
+	border-color: rgba(71, 254, 66, 0.8);
+}
+
+.error[class*="arrow"]:before {
+	border-color: #ff7f86;
+	border-color: rgba(255, 127, 134, 0.8);
+}
+
+.light[class*="arrow"]:before {
+	border-color: #ebebeb;
+	border-color: rgba(235, 235, 235, 0.8);
+}
+
+.tip.arrow-right:before {
+	border-right-color: transparent;
+	border-top-color: transparent;
+	border-bottom-color: transparent;
+	margin-top: -5px;
+	top: 50%;
+	left: 100%;
+}
+
+.tip.arrow-left:before {
+	border-left-color: transparent;
+	border-top-color: transparent;
+	border-bottom-color: transparent;
+	margin-top: -5px;
+	top: 50%;
+	right: 100%;
+}
+
+.tip.arrow-top:before {
+	border-top-color: transparent;
+	border-left-color: transparent;
+	border-right-color: transparent;
+	margin-left: -5px;
+	bottom: 100%;
+	left: 50%;
+}
+
+.tip.arrow-bottom:before {
+	border-bottom-color: transparent;
+	border-left-color: transparent;
+	border-right-color: transparent;
+	margin-left: -5px;
+	top: 100%;
+	left: 50%;
+}
+
+
+.at-field h4 {
+	margin-bottom:5px;
+}
+
+.at-font-select-preview, a.at-font-select {
+	margin:0 5px 0 0!important;
+}
+
+a.wp-color-result {
+	margin:0 5px -10px 0!important;
+	float:left;
+	height:28px!important;
+
+}
+
+.wp-color-result:after, .wp-picker-clear {
+	font-size:13px!important;
+	height:28px!important;
+	line-height: 26px!important;
+}
+
+.wp-picker-clear {
+	margin-right:5px!important;
+}
+
+input.wp-color-picker {
+	background-color: #eee;
+    border: 1px solid #DDDDDD;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.07) inset;
+    color: #333333;
+    transition: border-color 0.05s ease-in-out 0s;
+}
+
+.simplePanelImagePreview.has-image {
+	display:block;
+	padding-bottom:4px;
+}

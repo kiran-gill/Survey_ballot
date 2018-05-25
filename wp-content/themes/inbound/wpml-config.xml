@@ -1,0 +1,20 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">panels_data</custom-field>
+        <custom-field action="translate">sr_inbound_custom_banner</custom-field>
+        <custom-field action="copy">sr_inbound_hide_footer_widgets</custom-field>
+        <custom-field action="copy">sr_inbound_hide_title</custom-field>
+        <custom-field action="copy">sr_inbound_landing_page</custom-field>
+        <custom-field action="copy">sr_inbound_page_title_position</custom-field>
+        <custom-field action="copy">sr_inbound_hide_footer_widgets</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">testimonial</custom-type>
+        <custom-type translate="1">banner</custom-type>
+        <custom-type translate="1">modal</custom-type>
+        <custom-type translate="0">profile</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">testimonial_category</taxonomy>
+    </taxonomies>
+</wpml-config>

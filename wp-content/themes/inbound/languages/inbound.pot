@@ -1,0 +1,6057 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Inbound for WordPress\n"
+"POT-Creation-Date: 2017-01-31 17:27-0800\n"
+"PO-Revision-Date: 2015-08-23 17:00-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:21
+msgid "Oops!"
+msgstr ""
+
+#: 404.php:22
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:25
+msgid ""
+"It looks like nothing was found at this location. Maybe try searching for "
+"something else?"
+msgstr ""
+
+#: 404.php:29
+msgid "Take me to the home page"
+msgstr ""
+
+#: comments.php:28
+msgid "Comments"
+msgstr ""
+
+#: comments.php:28
+msgid "Comment"
+msgstr ""
+
+#: comments.php:34 comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:35 comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: content-image.php:12 content-single.php:11 search.php:28
+#: templates/blog/standalone/blog-list.php:59
+#: templates/blog/standalone/blog-medium.php:24
+#: templates/blog/standalone/blog-minimal.php:25
+#: templates/blog/widget/blog-list.php:59
+#: templates/blog/widget/blog-medium.php:21
+#: templates/blog/widget/blog-minimal.php:22
+msgid "By"
+msgstr ""
+
+#: content-image.php:12 content-single.php:11 content.php:57 search.php:28
+#: templates/blog/standalone/blog-list.php:59
+#: templates/blog/standalone/blog-medium.php:24
+#: templates/blog/widget/blog-list.php:59
+#: templates/blog/widget/blog-medium.php:21
+msgid "Leave a comment"
+msgstr ""
+
+#: content-image.php:72 content-single.php:32
+msgid "Tagged under:"
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:28 content-single.php:22 content.php:26
+#: inc/template-tags.php:96
+msgid "Pages:"
+msgstr ""
+
+#: content.php:23
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:37 content.php:47
+msgid ", "
+msgstr ""
+
+#: content.php:41
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content.php:51
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: content.php:57
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:57
+msgid "% Comments"
+msgstr ""
+
+#: content.php:60 inc/template-tags.php:673 lib/admin/admin-page-class.php:1086
+#: lib/admin/admin-page-class.php:1138 lib/admin/meta-box-class.php:434
+#: lib/admin/meta-box-class.php:486
+msgid "Edit"
+msgstr ""
+
+#: footer.php:19
+msgid "Scroll up"
+msgstr ""
+
+#: functions.php:461
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:462
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:463
+msgid "Toolbar Menu"
+msgstr ""
+
+#: functions.php:511
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:512
+msgid ""
+"This sidebar is displayed on all blog pages and archives and wherever no "
+"specific sidebar is available."
+msgstr ""
+
+#: functions.php:521
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:522
+msgid ""
+"This widget container is displayed on every page underneath the main content "
+"area."
+msgstr ""
+
+#: functions.php:957
+msgid "Read more"
+msgstr ""
+
+#: inc/admin.php:63
+msgid "Page Builder Options"
+msgstr ""
+
+#: inc/admin.php:73
+msgid "Bypass Page Builder"
+msgstr ""
+
+#: inc/admin.php:74
+msgid "Do not use page builder content"
+msgstr ""
+
+#: inc/admin.php:77
+msgid ""
+"If this option is checked, page builder content will not be rendered and the "
+"editor contents will be used instead."
+msgstr ""
+
+#: inc/admin.php:89
+msgid "Title Options"
+msgstr ""
+
+#: inc/admin.php:99
+msgid "Hide Title"
+msgstr ""
+
+#: inc/admin.php:100
+msgid "Hide title on this page"
+msgstr ""
+
+#: inc/admin.php:103
+msgid ""
+"If this option is checked, the title header block will be hidden on this "
+"page."
+msgstr ""
+
+#: inc/admin.php:113 inc/admin.php:156 inc/admin.php:179 inc/admin.php:347
+#: inc/admin.php:1504 inc/admin.php:2340
+msgid "Layout and Design"
+msgstr ""
+
+#: inc/admin.php:124 inc/admin.php:167 inc/admin.php:190
+msgid "Custom Banner"
+msgstr ""
+
+#: inc/admin.php:125 inc/admin.php:168 inc/admin.php:191
+msgid ""
+"If a banner is selected, it will be displayed instead of the default banner "
+"selected for the active profile."
+msgstr ""
+
+#: inc/admin.php:128 inc/admin.php:194
+msgid "Hide Header"
+msgstr ""
+
+#: inc/admin.php:129 inc/admin.php:195
+msgid "Remove the header section from this page"
+msgstr ""
+
+#: inc/admin.php:132 inc/admin.php:198
+msgid ""
+"If this option is checked, the header containing logo, site title, tagline, "
+"menu and social icons, will be hidden on this page."
+msgstr ""
+
+#: inc/admin.php:135 inc/admin.php:201
+msgid "Hide Footer Widgets"
+msgstr ""
+
+#: inc/admin.php:136 inc/admin.php:202
+msgid "Remove footer widgets section from this page"
+msgstr ""
+
+#: inc/admin.php:139 inc/admin.php:205
+msgid ""
+"If this option is checked, the footer widgets section will not be displayed "
+"on this particular page."
+msgstr ""
+
+#: inc/admin.php:142
+msgid "Display Sub Header"
+msgstr ""
+
+#: inc/admin.php:143
+msgid "Display sub header underneath header and banner"
+msgstr ""
+
+#: inc/admin.php:146
+msgid ""
+"If this option is checked, a narrow sub header will be displayed above the "
+"content."
+msgstr ""
+
+#: inc/admin.php:215 inc/admin.php:1305 inc/admin.php:1420
+#: inc/admin_extras.php:82
+msgid "Advanced"
+msgstr ""
+
+#: inc/admin.php:227 inc/admin.php:1317 inc/admin.php:2544
+msgid "Customization Shortcodes"
+msgstr ""
+
+#: inc/admin.php:229 inc/admin.php:1319
+msgid ""
+"Use advanced customization shortcodes to modify theme options and replace "
+"sections."
+msgstr ""
+
+#: inc/admin.php:235 inc/admin.php:1325 inc/admin.php:2527
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/admin.php:237 inc/admin.php:1327
+msgid "Custom CSS code to be added to the page header."
+msgstr ""
+
+#: inc/admin.php:241 inc/admin.php:1331
+msgid "Custom Scripts"
+msgstr ""
+
+#: inc/admin.php:243 inc/admin.php:1333
+msgid "Custom scripts to be added to the page header."
+msgstr ""
+
+#: inc/admin.php:254
+msgid "Development"
+msgstr ""
+
+#: inc/admin.php:264
+msgid "Template Description"
+msgstr ""
+
+#: inc/admin.php:266
+msgid "This description will be used for exported template packages."
+msgstr ""
+
+#: inc/admin.php:270
+msgid "Template Preview"
+msgstr ""
+
+#: inc/admin.php:271
+msgid "This image will be used as a template preview."
+msgstr ""
+
+#: inc/admin.php:274
+msgid "Group ID"
+msgstr ""
+
+#: inc/admin.php:278
+msgid "Minimum Req. Version"
+msgstr ""
+
+#: inc/admin.php:282
+msgid "Sort Order"
+msgstr ""
+
+#: inc/admin.php:294
+msgid "Template"
+msgstr ""
+
+#: inc/admin.php:304 inc/admin.php:2278
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/admin.php:305
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/admin.php:306
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/admin.php:308 inc/admin.php:2274
+msgid "Sidebar"
+msgstr ""
+
+#: inc/admin.php:310
+msgid "Select a page template."
+msgstr ""
+
+#: inc/admin.php:322
+msgid "Settings Profile"
+msgstr ""
+
+#: inc/admin.php:335
+msgid "Profile"
+msgstr ""
+
+#: inc/admin.php:337
+msgid ""
+"Select a settings profile to be applied to this page. If none is selected, "
+"the default profile will be used."
+msgstr ""
+
+#: inc/admin.php:358 widgets/widget-gallery.php:32
+#: widgets/widget-portfolio-item.php:32
+msgid "Default"
+msgstr ""
+
+#: inc/admin.php:359
+msgid "Boxed"
+msgstr ""
+
+#: inc/admin.php:360 inc/admin.php:801 inc/admin.php:929 inc/admin.php:970
+#: inc/admin.php:1047 inc/admin.php:1096 inc/admin.php:1291 inc/panels.php:105
+msgid "Full Width"
+msgstr ""
+
+#: inc/admin.php:362 inc/admin.php:1812 inc/admin.php:2241
+#: widgets/widget-blog-posts.php:64 widgets/widget-testimonial.php:45
+msgid "Layout"
+msgstr ""
+
+#: inc/admin.php:370 inc/admin.php:1129 inc/admin.php:1582 inc/admin.php:1612
+#: inc/admin.php:2109
+msgid "Solid Color"
+msgstr ""
+
+#: inc/admin.php:371 inc/admin.php:1131
+msgid "Image (fixed)"
+msgstr ""
+
+#: inc/admin.php:372 inc/admin.php:1135
+msgid "Image (tile)"
+msgstr ""
+
+#: inc/admin.php:374
+msgid "Background Mode"
+msgstr ""
+
+#: inc/admin.php:381 inc/admin.php:890 inc/admin.php:936 inc/admin.php:1008
+#: inc/admin.php:1067 inc/admin.php:1103 inc/admin.php:1360
+#: widgets/widget-icon.php:96 widgets/widget-pricing-block.php:176
+#: widgets/widget-pricing-block.php:278 widgets/widget-pricing-block.php:299
+msgid "Background Color"
+msgstr ""
+
+#: inc/admin.php:385
+msgid "Content Background Color"
+msgstr ""
+
+#: inc/admin.php:392
+msgid "Background Image"
+msgstr ""
+
+#: inc/admin.php:401
+msgid "Link Color"
+msgstr ""
+
+#: inc/admin.php:405
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/admin.php:411 inc/admin.php:645 inc/admin.php:2064 inc/panels.php:186
+#: inc/panels.php:230 inc/panels.php:371 inc/panels.php:415
+#: lib/admin/admin-page-class.php:1657 lib/admin/meta-box-class.php:1084
+#: lib/admin/tax-meta-class.php:869 lib/widget-class.php:535
+#: widgets/widget-gallery.php:136
+msgid "None"
+msgstr ""
+
+#: inc/admin.php:427
+msgid "Default Button Style"
+msgstr ""
+
+#: inc/admin.php:430
+msgid ""
+"Select the default style used for all buttons for which no specific style "
+"can be selected, e.g. form submit buttons."
+msgstr ""
+
+#: inc/admin.php:436
+msgid "Mobile Animations"
+msgstr ""
+
+#: inc/admin.php:437
+msgid "Support row and widget animations for mobile devices"
+msgstr ""
+
+#: inc/admin.php:440
+msgid ""
+"If this option is checked, row and widget animations added in the page "
+"builder will also be used on mobile devices."
+msgstr ""
+
+#: inc/admin.php:454 inc/admin_extras.php:80
+msgid "Typography"
+msgstr ""
+
+#: inc/admin.php:464
+msgid ""
+"Typography settings are applied to all pages using this profile. Please note "
+"that banners have additional individual settings. Button styles also have "
+"their own typography settings."
+msgstr ""
+
+#: inc/admin.php:469
+msgid "Body"
+msgstr ""
+
+#: inc/admin.php:470
+msgid ""
+"This font is used for all text for which no other font is defined, such as "
+"plain text paragraphs."
+msgstr ""
+
+#: inc/admin.php:483
+msgid "Logo"
+msgstr ""
+
+#: inc/admin.php:496
+msgid "Logo Tagline"
+msgstr ""
+
+#: inc/admin.php:509
+msgid "Page Title"
+msgstr ""
+
+#: inc/admin.php:522
+msgid "Widget Title"
+msgstr ""
+
+#: inc/admin.php:535
+msgid "Quotes"
+msgstr ""
+
+#: inc/admin.php:548
+msgid "H1"
+msgstr ""
+
+#: inc/admin.php:561
+msgid "H2"
+msgstr ""
+
+#: inc/admin.php:574
+msgid "H3"
+msgstr ""
+
+#: inc/admin.php:587
+msgid "H4"
+msgstr ""
+
+#: inc/admin.php:600
+msgid "H5"
+msgstr ""
+
+#: inc/admin.php:613
+msgid "H6"
+msgstr ""
+
+#: inc/admin.php:631
+msgid "Social Media Profiles"
+msgstr ""
+
+#: inc/admin.php:641
+msgid ""
+"These are the social media profiles displayed in header, toolbar and the "
+"social icons widget."
+msgstr ""
+
+#: inc/admin.php:646 inc/admin.php:2092 inc/template-tags.php:565
+#: widgets/widget-bio-block.php:390
+msgid "Facebook"
+msgstr ""
+
+#: inc/admin.php:647 inc/admin.php:2093 inc/template-tags.php:558
+#: widgets/widget-bio-block.php:398
+msgid "Twitter"
+msgstr ""
+
+#: inc/admin.php:648 inc/admin.php:2094 inc/template-tags.php:572
+#: widgets/widget-bio-block.php:406
+msgid "Google+"
+msgstr ""
+
+#: inc/admin.php:649 inc/template-tags.php:628 widgets/widget-bio-block.php:462
+msgid "YouTube"
+msgstr ""
+
+#: inc/admin.php:650 inc/admin.php:2097 inc/template-tags.php:586
+#: widgets/widget-bio-block.php:414
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/admin.php:651 inc/template-tags.php:593 widgets/widget-bio-block.php:422
+msgid "Instagram"
+msgstr ""
+
+#: inc/admin.php:652 inc/admin.php:2096 inc/template-tags.php:600
+#: widgets/widget-bio-block.php:430
+msgid "Pinterest"
+msgstr ""
+
+#: inc/admin.php:653 inc/template-tags.php:607 widgets/widget-bio-block.php:438
+msgid "Flickr"
+msgstr ""
+
+#: inc/admin.php:654 inc/admin.php:2095 inc/template-tags.php:614
+#: widgets/widget-bio-block.php:446
+msgid "Tumblr"
+msgstr ""
+
+#: inc/admin.php:655 inc/template-tags.php:621 widgets/widget-bio-block.php:454
+msgid "Foursquare"
+msgstr ""
+
+#: inc/admin.php:656 inc/template-tags.php:635 widgets/widget-bio-block.php:470
+msgid "Vimeo"
+msgstr ""
+
+#: inc/admin.php:657
+msgid "last.fm"
+msgstr ""
+
+#: inc/admin.php:658
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/admin.php:659
+msgid "Yelp"
+msgstr ""
+
+#: inc/admin.php:660
+msgid "Slideshare"
+msgstr ""
+
+#: inc/admin.php:661
+msgid "Dribbble"
+msgstr ""
+
+#: inc/admin.php:662
+msgid "Behance"
+msgstr ""
+
+#: inc/admin.php:663
+msgid "GitHub"
+msgstr ""
+
+#: inc/admin.php:664
+msgid "Reddit"
+msgstr ""
+
+#: inc/admin.php:665
+msgid "Weibo"
+msgstr ""
+
+#: inc/admin.php:666
+msgid "DeviantArt"
+msgstr ""
+
+#: inc/admin.php:667 inc/template-tags.php:579
+msgid "Skype"
+msgstr ""
+
+#: inc/admin.php:668
+msgid "Spotify"
+msgstr ""
+
+#: inc/admin.php:669
+msgid "Xing"
+msgstr ""
+
+#: inc/admin.php:670
+msgid "Vine"
+msgstr ""
+
+#: inc/admin.php:671
+msgid "Digg"
+msgstr ""
+
+#: inc/admin.php:673
+msgid "Preset"
+msgstr ""
+
+#: inc/admin.php:678 widgets/widget-blog-posts.php:33
+#: widgets/widget-comparison.php:35 widgets/widget-contact.php:39
+#: widgets/widget-countdown.php:35 widgets/widget-event.php:40
+#: widgets/widget-gravityforms.php:50 widgets/widget-icon-block.php:39
+#: widgets/widget-image.php:35 widgets/widget-map.php:35
+#: widgets/widget-optin.php:56 widgets/widget-payment-icons.php:62
+#: widgets/widget-portfolio-item.php:70 widgets/widget-pricing-block.php:63
+#: widgets/widget-pricing-block.php:266 widgets/widget-progress-bar.php:34
+#: widgets/widget-recent-comments.php:34 widgets/widget-recent-posts.php:34
+#: widgets/widget-share.php:40 widgets/widget-social-icons.php:40
+#: widgets/widget-testimonial.php:35 widgets/widget-video.php:35
+msgid "Title"
+msgstr ""
+
+#: inc/admin.php:682 widgets/widget-bio-block.php:98
+#: widgets/widget-event.php:96 widgets/widget-icon-block.php:167
+#: widgets/widget-image.php:79 widgets/widget-link.php:85
+#: widgets/widget-portfolio-item.php:141 widgets/widget-pricing-block.php:219
+msgid "Link URL"
+msgstr ""
+
+#: inc/admin.php:686 widgets/widget-button.php:99
+#: widgets/widget-icon-block.php:51 widgets/widget-icon-list.php:33
+#: widgets/widget-icon.php:32 widgets/widget-link.php:56
+#: widgets/widget-progress-bar.php:56 widgets/widget-split-button.php:113
+#: widgets/widget-split-button.php:214
+msgid "Icon"
+msgstr ""
+
+#: inc/admin.php:690 inc/admin.php:1119
+msgid "Background"
+msgstr ""
+
+#: inc/admin.php:694 inc/admin.php:950
+msgid "Toolbar"
+msgstr ""
+
+#: inc/admin.php:695
+msgid "Activate this service in the toolbar"
+msgstr ""
+
+#: inc/admin.php:698
+msgid ""
+"If this option is checked, this profile link will be displayed in the site "
+"toolbar."
+msgstr ""
+
+#: inc/admin.php:701 inc/admin.php:774 inc/admin_extras.php:78
+msgid "Header"
+msgstr ""
+
+#: inc/admin.php:702
+msgid "Activate this service in the header"
+msgstr ""
+
+#: inc/admin.php:705
+msgid ""
+"If this option is checked, this profile link will be displayed in the site "
+"header."
+msgstr ""
+
+#: inc/admin.php:708
+msgid "Widgets"
+msgstr ""
+
+#: inc/admin.php:709
+msgid "Activate this service in social widgets"
+msgstr ""
+
+#: inc/admin.php:712
+msgid ""
+"If this option is checked, this profile link will be displayed in widgets."
+msgstr ""
+
+#: inc/admin.php:720 inc/admin.php:3051 lib/admin/admin-page-class.php:391
+msgid "Profiles"
+msgstr ""
+
+#: inc/admin.php:722
+msgid "Add, edit and re-order social media profiles."
+msgstr ""
+
+#: inc/admin.php:735
+msgid "Twitter Account"
+msgstr ""
+
+#: inc/admin.php:745
+#, php-format
+msgid ""
+"You need to <a href=\"%1$s\" target=\"_blank\">register your website</a> as "
+"an application with Twitter in order to use the Twitter API."
+msgstr ""
+
+#: inc/admin.php:747
+msgid "Twitter User"
+msgstr ""
+
+#: inc/admin.php:751
+msgid "Consumer Key"
+msgstr ""
+
+#: inc/admin.php:755
+msgid "Consumer Secret"
+msgstr ""
+
+#: inc/admin.php:759
+msgid "Access Token"
+msgstr ""
+
+#: inc/admin.php:763
+msgid "Access Token Secret"
+msgstr ""
+
+#: inc/admin.php:784
+msgid ""
+"The header is the layout element at the very top that contains logo, site "
+"title, tagline, main menu, social icons etc."
+msgstr ""
+
+#: inc/admin.php:787 inc/admin.php:1584 inc/admin.php:1614 inc/admin.php:2106
+#: widgets/widget-countdown.php:70 widgets/widget-share.php:57
+#: widgets/widget-social-icons.php:57
+msgid "Transparent"
+msgstr ""
+
+#: inc/admin.php:788
+msgid "Display header items as transparent on banner"
+msgstr ""
+
+#: inc/admin.php:791
+msgid ""
+"If this option is checked, the menu bar will be transparent on top of the "
+"banner until scrolling reaches content."
+msgstr ""
+
+#: inc/admin.php:794
+msgid "Sticky"
+msgstr ""
+
+#: inc/admin.php:795
+msgid "Make header elements 'stick' to the top of the page"
+msgstr ""
+
+#: inc/admin.php:798
+msgid "If this option is checked, the menu will be fixed to the top."
+msgstr ""
+
+#: inc/admin.php:802
+msgid "Render the header in full width"
+msgstr ""
+
+#: inc/admin.php:805
+msgid ""
+"If this option is checked, the header will stretch from the outer left to "
+"the outer right edge of the window."
+msgstr ""
+
+#: inc/admin.php:808
+msgid "Logo Image"
+msgstr ""
+
+#: inc/admin.php:810
+msgid "Logo Image (Secondary)"
+msgstr ""
+
+#: inc/admin.php:810
+msgid ""
+"If a secondary logo is uploaded, it will be displayed when a sticky header "
+"is used, when the user scrolls down to reveal the scroll state of the header."
+msgstr ""
+
+#: inc/admin.php:813
+msgid "Display extra-large logo."
+msgstr ""
+
+#: inc/admin.php:814
+msgid "Provide more space to fit a large logo."
+msgstr ""
+
+#: inc/admin.php:820
+msgid "Fav Icon"
+msgstr ""
+
+#: inc/admin.php:821
+msgid "This is the small icon displayed in the browser tab."
+msgstr ""
+
+#: inc/admin.php:826
+msgid "Hide Site Title"
+msgstr ""
+
+#: inc/admin.php:827
+msgid "Do not display site title in header"
+msgstr ""
+
+#: inc/admin.php:830
+msgid "Hide Site Tagline"
+msgstr ""
+
+#: inc/admin.php:831
+msgid "Do not display site tagline header"
+msgstr ""
+
+#: inc/admin.php:834
+msgid "Custom Link"
+msgstr ""
+
+#: inc/admin.php:835
+msgid "A custom URL to link site title and logo to."
+msgstr ""
+
+#: inc/admin.php:839
+msgid "Custom Site Title"
+msgstr ""
+
+#: inc/admin.php:840
+msgid "A custom title to use instead of the site title set in WordPress."
+msgstr ""
+
+#: inc/admin.php:844
+msgid "Custom Tagline"
+msgstr ""
+
+#: inc/admin.php:845
+msgid "A custom tagline to use instead of the tagline set in WordPress."
+msgstr ""
+
+#: inc/admin.php:849 inc/admin.php:2279 inc/panels.php:85 inc/panels.php:296
+#: widgets/widget-contact.php:86 widgets/widget-divider.php:67
+#: widgets/widget-image.php:62 widgets/widget-optin.php:102
+msgid "Left"
+msgstr ""
+
+#: inc/admin.php:850 inc/panels.php:86 inc/panels.php:297
+#: widgets/widget-contact.php:90 widgets/widget-divider.php:71
+#: widgets/widget-image.php:66 widgets/widget-optin.php:106
+msgid "Center"
+msgstr ""
+
+#: inc/admin.php:851 inc/admin.php:2280 inc/panels.php:87 inc/panels.php:298
+#: widgets/widget-contact.php:94 widgets/widget-divider.php:75
+#: widgets/widget-image.php:70 widgets/widget-optin.php:110
+msgid "Right"
+msgstr ""
+
+#: inc/admin.php:853
+msgid "Menu Alignment"
+msgstr ""
+
+#: inc/admin.php:854
+msgid "Select where the menu should be positioned."
+msgstr ""
+
+#: inc/admin.php:862 inc/admin.php:978 inc/admin.php:1000 inc/admin.php:1057
+msgid "Custom Menu"
+msgstr ""
+
+#: inc/admin.php:864 inc/admin.php:1001 inc/admin.php:1060
+msgid "Default Menu"
+msgstr ""
+
+#: inc/admin.php:865 inc/admin.php:1002 inc/admin.php:1058
+msgid ""
+"The selected menu will be displayed as a flat toolbar navigation, so only "
+"the first level will be displayed. You must also set a default for all "
+"profiles via Appearance &#8594; Menus, otherwise WordPress will see this "
+"menu as empty and this option will not be applied."
+msgstr ""
+
+#: inc/admin.php:868 inc/admin.php:1063
+msgid "Hide Menu"
+msgstr ""
+
+#: inc/admin.php:869
+msgid "Do not display the header menu"
+msgstr ""
+
+#: inc/admin.php:872
+msgid "Hide Search Bar"
+msgstr ""
+
+#: inc/admin.php:873
+msgid "Do not display search icon in the header"
+msgstr ""
+
+#: inc/admin.php:876
+msgid ""
+"If this option is checked, the search icon and search bar will be hidden."
+msgstr ""
+
+#: inc/admin.php:881
+msgid "Hide Language Switcher"
+msgstr ""
+
+#: inc/admin.php:882
+msgid "Do not display language switcher in header."
+msgstr ""
+
+#: inc/admin.php:885
+msgid ""
+"If this option is checked, the language switcher will be hidden from the "
+"header."
+msgstr ""
+
+#: inc/admin.php:894
+msgid "Menu Link Color"
+msgstr ""
+
+#: inc/admin.php:896
+msgid "This colour is used for menu items."
+msgstr ""
+
+#: inc/admin.php:899
+msgid "Menu Link Hover Color"
+msgstr ""
+
+#: inc/admin.php:900
+msgid "This colour is used for menu items in the hover state."
+msgstr ""
+
+#: inc/admin.php:904
+msgid ""
+"Please note that the theme uses the banner text color setting instead of the "
+"header link color settings in case the header is displayed transparently on "
+"top of the banner."
+msgstr ""
+
+#: inc/admin.php:915
+msgid "Sub Header"
+msgstr ""
+
+#: inc/admin.php:926
+msgid ""
+"The sub header is a navigational aid that is displayed underneath the header "
+"and banner elements and contains the breadcrumb. It is displayed by default "
+"on all blog and supported e-commerce plug-in pages."
+msgstr ""
+
+#: inc/admin.php:930
+msgid "Render the sub header in full width"
+msgstr ""
+
+#: inc/admin.php:933
+msgid ""
+"If this option is checked, the sub header will stretch from the outer left "
+"to the outer right edge of the window."
+msgstr ""
+
+#: inc/admin.php:940 inc/admin.php:1012 inc/admin.php:1071 inc/admin.php:1107
+#: inc/admin.php:1364 inc/admin.php:1604 inc/admin.php:1634 inc/panels.php:303
+#: widgets/widget-headline.php:122 widgets/widget-pricing-block.php:185
+#: widgets/widget-pricing-block.php:287 widgets/widget-pricing-block.php:308
+msgid "Text Color"
+msgstr ""
+
+#: inc/admin.php:960
+msgid ""
+"The toolbar is a narrow bar that is optionally displayed above the header. "
+"It can contain a one-dimensional menu or any custom text."
+msgstr ""
+
+#: inc/admin.php:963
+msgid "Display Toolbar"
+msgstr ""
+
+#: inc/admin.php:964
+msgid "Display toolbar above header"
+msgstr ""
+
+#: inc/admin.php:967
+msgid ""
+"If this option is checked, the toolbar will be displayed above the header. "
+"The toolbar can contain free form text or an additional one-level menu."
+msgstr ""
+
+#: inc/admin.php:971
+msgid "Render the toolbar in full width"
+msgstr ""
+
+#: inc/admin.php:974
+msgid ""
+"If this option is checked, the toolbar will stretch from the outer left to "
+"the outer right edge of the window."
+msgstr ""
+
+#: inc/admin.php:977 inc/admin.php:987 widgets/widget-feature-image.php:62
+msgid "Custom Content"
+msgstr ""
+
+#: inc/admin.php:980 inc/admin.php:1137 widgets/widget-comparison.php:47
+msgid "Mode"
+msgstr ""
+
+#: inc/admin.php:981
+msgid "Select what you would like to display in the toolbar."
+msgstr ""
+
+#: inc/admin.php:1014 inc/admin.php:1073 inc/admin.php:1109
+msgid "This colour is used for the actual text, as well as for links."
+msgstr ""
+
+#: inc/admin.php:1024 inc/admin_extras.php:79
+msgid "Footer"
+msgstr ""
+
+#: inc/admin.php:1035
+msgid ""
+"The footer is the last element rendered at the very bottom of the page. It "
+"can contain custom text and/or a custom one-dimensional menu."
+msgstr ""
+
+#: inc/admin.php:1038
+msgid "Footer Notice"
+msgstr ""
+
+#: inc/admin.php:1039
+msgid ""
+"This element is part of the footer and usually contains a copyright notice, "
+"disclaimer text etc."
+msgstr ""
+
+#: inc/admin.php:1048
+msgid "Render the footer in full width"
+msgstr ""
+
+#: inc/admin.php:1051
+msgid ""
+"If this option is checked, the footer will stretch from the outer left to "
+"the outer right edge of the window."
+msgstr ""
+
+#: inc/admin.php:1064
+msgid "Do not display the footer menu"
+msgstr ""
+
+#: inc/admin.php:1082
+msgid "Sub Footer"
+msgstr ""
+
+#: inc/admin.php:1093
+msgid ""
+"The sub footer is a widgetized area displayed right above the footer. It is "
+"positioned at the bottom of the page."
+msgstr ""
+
+#: inc/admin.php:1097
+msgid "Render the sub footer in full width"
+msgstr ""
+
+#: inc/admin.php:1100
+msgid ""
+"If this option is checked, the sub footer will stretch from the outer left "
+"to the outer right edge of the window."
+msgstr ""
+
+#: inc/admin.php:1130 inc/admin.php:1583 inc/admin.php:1613
+msgid "Gradient"
+msgstr ""
+
+#: inc/admin.php:1132
+msgid "Image (cover)"
+msgstr ""
+
+#: inc/admin.php:1133
+msgid "Image (original size, centered)"
+msgstr ""
+
+#: inc/admin.php:1134
+msgid "Image (parallax)"
+msgstr ""
+
+#: inc/admin.php:1143 inc/admin.php:1593 inc/admin.php:1623
+msgid "Color 1"
+msgstr ""
+
+#: inc/admin.php:1147 inc/admin.php:1597 inc/admin.php:1627
+msgid "Color 2"
+msgstr ""
+
+#: inc/admin.php:1153 widgets/widget-event.php:65 widgets/widget-image.php:46
+#: widgets/widget-portfolio-item.php:102
+msgid "Image"
+msgstr ""
+
+#: inc/admin.php:1171 inc/admin.php:1209 inc/admin.php:1358 inc/admin.php:1940
+msgid "Content"
+msgstr ""
+
+#: inc/admin.php:1185
+msgid "Banner Content"
+msgstr ""
+
+#: inc/admin.php:1186 inc/admin.php:1217
+msgid "Custom Code"
+msgstr ""
+
+#: inc/admin.php:1201 inc/admin.php:1228
+msgid "Meta Slider"
+msgstr ""
+
+#: inc/admin.php:1205 inc/admin.php:1241
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/admin.php:1219
+msgid "This field's content will replace the entire banner."
+msgstr ""
+
+#: inc/admin.php:1229 inc/admin.php:1242
+msgid "Select which slider you would like to use in this banner."
+msgstr ""
+
+#: inc/admin.php:1253
+msgid "Title (H1)"
+msgstr ""
+
+#: inc/admin.php:1266
+msgid "Sub Title (H2)"
+msgstr ""
+
+#: inc/admin.php:1279 widgets/widget-cta-box.php:51
+#: widgets/widget-raw-html.php:34
+msgid "Text"
+msgstr ""
+
+#: inc/admin.php:1292
+msgid ""
+"Render the banner in full width, for use with sliders or other third party "
+"plug-ins"
+msgstr ""
+
+#: inc/admin.php:1295
+#, php-format
+msgid ""
+"If this option is checked, the banner will use 100% of the available window "
+"width."
+msgstr ""
+
+#: inc/admin.php:1344
+msgid "Options"
+msgstr ""
+
+#: inc/admin.php:1354
+msgid "Modal Content (w/ Basic Content Filters)"
+msgstr ""
+
+#: inc/admin.php:1355
+msgid "Modal Content (Raw HTML/Text)"
+msgstr ""
+
+#: inc/admin.php:1356
+msgid "Modal Content (oEmbed URL)"
+msgstr ""
+
+#: inc/admin.php:1357
+msgid "Page Builder (Experimental)"
+msgstr ""
+
+#: inc/admin.php:1382 inc/admin.php:2647
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin.php:1406 inc/admin.php:1796 inc/admin.php:2217
+#: widgets/widget-bio-block.php:30 widgets/widget-event.php:30
+#: widgets/widget-headline.php:32 widgets/widget-icon-block.php:31
+#: widgets/widget-payment-icons.php:53
+msgid "General"
+msgstr ""
+
+#: inc/admin.php:1408 inc/template-tags.php:1220 inc/template-tags.php:1231
+#: templates/banners/banner-blog.php:21
+msgid "Blog"
+msgstr ""
+
+#: inc/admin.php:1409 inc/admin.php:2200
+msgid "Forms"
+msgstr ""
+
+#: inc/admin.php:1412
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/admin.php:1417 inc/admin.php:2317
+msgid "Page Builder"
+msgstr ""
+
+#: inc/admin.php:1422 lib/admin/admin-page-class.php:2620
+msgid "Export"
+msgstr ""
+
+#: inc/admin.php:1426
+msgid "Support"
+msgstr ""
+
+#: inc/admin.php:1441 inc/admin.php:2665
+msgid "About Inbound"
+msgstr ""
+
+#: inc/admin.php:1444
+msgid "Theme"
+msgstr ""
+
+#: inc/admin.php:1446
+#, php-format
+msgid ""
+"Inbound is a multi-purpose online marketing and lead generation theme by <a "
+"href=\"%1$s\" target=\"_blank\">ShapingRain.com</a>."
+msgstr ""
+
+#: inc/admin.php:1450 inc/admin.php:1455
+msgid "Installed Version"
+msgstr ""
+
+#: inc/admin.php:1451
+msgid " (Parent Theme)"
+msgstr ""
+
+#: inc/admin.php:1461 inc/admin.php:2683 lib/admin/admin-page-class.php:400
+msgid "Customer Support"
+msgstr ""
+
+#: inc/admin.php:1462
+#, php-format
+msgid ""
+"With your purchase of Inbound you have access to free premium support <a "
+"href=\"%1$s\" target=\"_blank\">via email</a>. We do not provide support via "
+"the comments section on themeforest."
+msgstr ""
+
+#: inc/admin.php:1464
+msgid "Allow Option Changes"
+msgstr ""
+
+#: inc/admin.php:1465
+msgid "Allow overwriting of theme options via debugging GET variables"
+msgstr ""
+
+#: inc/admin.php:1466
+msgid ""
+"If this option is checked, the theme will allow users to allow GET variables "
+"in the browser's address bar to overwrite theme options. Use with care and "
+"disable when not used."
+msgstr ""
+
+#: inc/admin.php:1472
+msgid "Allowed Parameters"
+msgstr ""
+
+#: inc/admin.php:1473
+msgid ""
+"Only options listed here, one per line, can be overwritten using GET "
+"variables"
+msgstr ""
+
+#: inc/admin.php:1479
+msgid "Support Access Token"
+msgstr ""
+
+#: inc/admin.php:1480
+msgid ""
+"You must provide this token to support, if requested, to enable them to "
+"overwrite options using GET variables"
+msgstr ""
+
+#: inc/admin.php:1486
+msgid "Development Mode"
+msgstr ""
+
+#: inc/admin.php:1487
+msgid "Enable development mode"
+msgstr ""
+
+#: inc/admin.php:1488
+msgid "Enable additional options for developers."
+msgstr ""
+
+#: inc/admin.php:1502 inc/admin.php:2321
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin.php:1508 inc/admin.php:2765
+msgid "Default Profile"
+msgstr ""
+
+#: inc/admin.php:1509
+msgid ""
+"A profile is a set of setings, e.g. colours, background images, social "
+"profiles etc. that can be applied to the entire site or specific pages. This "
+"settings profile will be used when no profile is selected for a particular "
+"page, as well as for the blog and all pages generated by third-party plug-"
+"ins."
+msgstr ""
+
+#: inc/admin.php:1515
+msgid "Default Banner"
+msgstr ""
+
+#: inc/admin.php:1516
+msgid ""
+"If a banner is selected, that banner will be used for all pages for which no "
+"individual banner has been selected."
+msgstr ""
+
+#: inc/admin.php:1524 inc/admin.php:2184 inc/template-tags.php:520
+#: widgets/widget-bio-block.php:51 widgets/widget-testimonial.php:79
+#: woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr ""
+
+#: inc/admin.php:1527 inc/admin.php:2195
+msgid "Unique ID"
+msgstr ""
+
+#: inc/admin.php:1531
+msgid "Font"
+msgstr ""
+
+#: inc/admin.php:1542
+msgid "Apply fonts to default"
+msgstr ""
+
+#: inc/admin.php:1543
+msgid "Enforce font styles to be used for default button style."
+msgstr ""
+
+#: inc/admin.php:1548
+msgid "Shadow"
+msgstr ""
+
+#: inc/admin.php:1549
+msgid "Add drop shadow to buttons."
+msgstr ""
+
+#: inc/admin.php:1554
+msgid "Border"
+msgstr ""
+
+#: inc/admin.php:1555
+msgid "Add a border around the button."
+msgstr ""
+
+#: inc/admin.php:1563 widgets/widget-contact.php:103
+#: widgets/widget-optin.php:119
+msgid "Rounded Corners"
+msgstr ""
+
+#: inc/admin.php:1569 inc/admin.php:1977 inc/admin.php:2266 inc/admin.php:2349
+#: inc/admin.php:2370 inc/admin.php:2386 inc/admin.php:2402 inc/admin.php:2421
+#: inc/admin.php:2439 inc/admin.php:2456 inc/admin.php:2473 inc/admin.php:2490
+msgid "must be a numeric value"
+msgstr ""
+
+#: inc/admin.php:1579
+msgid "Default State"
+msgstr ""
+
+#: inc/admin.php:1586 inc/admin.php:1616
+msgid "Background Mode (Default)"
+msgstr ""
+
+#: inc/admin.php:1609
+msgid "Hover State"
+msgstr ""
+
+#: inc/admin.php:1644
+msgid "Button Styles"
+msgstr ""
+
+#: inc/admin.php:1646
+msgid "Add, edit and re-order button styles."
+msgstr ""
+
+#: inc/admin.php:1655
+msgid "Embedded Media Responsiveness"
+msgstr ""
+
+#: inc/admin.php:1657
+msgid "Content Section"
+msgstr ""
+
+#: inc/admin.php:1658
+msgid "Remove width and height attributes from all images in content section"
+msgstr ""
+
+#: inc/admin.php:1659
+msgid ""
+"If this option is checked, the theme will remove all static width and height "
+"attributes from thumbnails, featured images, gallery images etc., for "
+"responsiveness."
+msgstr ""
+
+#: inc/admin.php:1664
+msgid "Embedded Media"
+msgstr ""
+
+#: inc/admin.php:1665
+msgid "Remove width and height attributes from supported embedded media"
+msgstr ""
+
+#: inc/admin.php:1666
+msgid ""
+"If this option is checked, the theme will remove all static width and height "
+"attributes from media embeds, for responsiveness."
+msgstr ""
+
+#: inc/admin.php:1674
+msgid "Theme Features"
+msgstr ""
+
+#: inc/admin.php:1676
+msgid "Page Comments"
+msgstr ""
+
+#: inc/admin.php:1677
+msgid "Enable comments for pages"
+msgstr ""
+
+#: inc/admin.php:1678
+msgid ""
+"If this option is checked, a comment form will be displayed underneath "
+"pages, if comments are active for that page."
+msgstr ""
+
+#: inc/admin.php:1686
+msgid "Web Fonts"
+msgstr ""
+
+#: inc/admin.php:1689
+msgid "Latin"
+msgstr ""
+
+#: inc/admin.php:1690
+msgid "Latin (Extended)"
+msgstr ""
+
+#: inc/admin.php:1691 inc/template-tags.php:1494
+msgid "Menu"
+msgstr ""
+
+#: inc/admin.php:1692
+msgid "Greek"
+msgstr ""
+
+#: inc/admin.php:1693
+msgid "Greek (Extended)"
+msgstr ""
+
+#: inc/admin.php:1694
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/admin.php:1695
+msgid "Cyrillic (Extended)"
+msgstr ""
+
+#: inc/admin.php:1696
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/admin.php:1697
+msgid "Arabic"
+msgstr ""
+
+#: inc/admin.php:1698
+msgid "Khmer"
+msgstr ""
+
+#: inc/admin.php:1699
+msgid "Lao"
+msgstr ""
+
+#: inc/admin.php:1700
+msgid "Tamil"
+msgstr ""
+
+#: inc/admin.php:1701
+msgid "Bengali"
+msgstr ""
+
+#: inc/admin.php:1702
+msgid "Hindi"
+msgstr ""
+
+#: inc/admin.php:1703
+msgid "Korean"
+msgstr ""
+
+#: inc/admin.php:1711
+msgid ""
+"Select which subsets should be loaded. Subsets are only applied when the "
+"selected fonts support the selection."
+msgstr ""
+
+#: inc/admin.php:1719
+msgid "Display Name"
+msgstr ""
+
+#: inc/admin.php:1721
+msgid ""
+"This name will be displayed in the font selection interface. It serves no "
+"other function."
+msgstr ""
+
+#: inc/admin.php:1724
+msgid "Font Face Name"
+msgstr ""
+
+#: inc/admin.php:1726
+msgid ""
+"This name will be used in the font-face CSS attribute to identify the font."
+msgstr ""
+
+#: inc/admin.php:1729
+msgid "Font Face Fallback"
+msgstr ""
+
+#: inc/admin.php:1731
+msgid "Comma-separated and escaped list of fallback fonts to be used."
+msgstr ""
+
+#: inc/admin.php:1735
+msgid "EOT URL"
+msgstr ""
+
+#: inc/admin.php:1737
+msgid "This is the URL pointing to the .eot (Open Type) file."
+msgstr ""
+
+#: inc/admin.php:1740
+msgid "WOFF  URL"
+msgstr ""
+
+#: inc/admin.php:1742
+msgid "This is the URL pointing to the .woff (Web Open Font Format) file."
+msgstr ""
+
+#: inc/admin.php:1745
+msgid "TTF  URL"
+msgstr ""
+
+#: inc/admin.php:1747
+msgid "This is the URL pointing to the .ttf (True Type Font) file."
+msgstr ""
+
+#: inc/admin.php:1750
+msgid "SVG  URL"
+msgstr ""
+
+#: inc/admin.php:1752
+msgid ""
+"This is the URL pointing to the .svg (Scalable Vector Graphics Font) file."
+msgstr ""
+
+#: inc/admin.php:1758
+msgid "Custom Web Fonts"
+msgstr ""
+
+#: inc/admin.php:1760
+msgid ""
+"This feature enables you to use compatible web font files from external "
+"sources. The fonts database needs to be refreshed after each change."
+msgstr ""
+
+#: inc/admin.php:1764
+msgid "Update Database"
+msgstr ""
+
+#: inc/admin.php:1765
+msgid "Refresh Web Fonts Database"
+msgstr ""
+
+#: inc/admin.php:1766
+msgid ""
+"Retrieve and process new web fonts and write changes to the database. If new "
+"fonts are added, this will make them available to the theme."
+msgstr ""
+
+#: inc/admin.php:1772
+msgid "Google Maps API"
+msgstr ""
+
+#: inc/admin.php:1775
+msgid "Google Maps API Key"
+msgstr ""
+
+#: inc/admin.php:1776
+msgid "You need to provide a Google Map API Key in order to include maps."
+msgstr ""
+
+#: inc/admin.php:1792
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/admin.php:1799
+msgid "Blog Default Profile"
+msgstr ""
+
+#: inc/admin.php:1800
+msgid ""
+"This settings profile will be used for the blog, including all archives. If "
+"no profile is selected, the site's default profile will be used."
+msgstr ""
+
+#: inc/admin.php:1805
+msgid "Blog Default Banner"
+msgstr ""
+
+#: inc/admin.php:1806
+msgid ""
+"This overrides the default profile's banner setting and displays the "
+"selected banner on every blog page by default. If no selection is made, the "
+"profile's banner will be used instead, if set."
+msgstr ""
+
+#: inc/admin.php:1816
+msgid "List (Minimal)"
+msgstr ""
+
+#: inc/admin.php:1820 widgets/widget-blog-posts.php:75
+msgid "List (Medium)"
+msgstr ""
+
+#: inc/admin.php:1824 widgets/widget-blog-posts.php:71
+msgid "List (Large)"
+msgstr ""
+
+#: inc/admin.php:1828 widgets/widget-blog-posts.php:79
+msgid "Grid"
+msgstr ""
+
+#: inc/admin.php:1832 widgets/widget-blog-posts.php:83
+msgid "Masonry"
+msgstr ""
+
+#: inc/admin.php:1836 widgets/widget-blog-posts.php:87
+msgid "Timeline"
+msgstr ""
+
+#: inc/admin.php:1842 widgets/widget-blog-posts.php:108
+msgid "Day"
+msgstr ""
+
+#: inc/admin.php:1843 widgets/widget-blog-posts.php:112
+msgid "Month"
+msgstr ""
+
+#: inc/admin.php:1844 widgets/widget-blog-posts.php:116
+msgid "Year"
+msgstr ""
+
+#: inc/admin.php:1853
+msgid "This layout is used for the blog index page."
+msgstr ""
+
+#: inc/admin.php:1864 inc/admin.php:1904
+msgid "Select whether you would like posts to be grouped by day or month."
+msgstr ""
+
+#: inc/admin.php:1881
+msgid "Amount of columns per row for blog index pages."
+msgstr ""
+
+#: inc/admin.php:1893
+msgid ""
+"This layout is used for all archives, e.g. category, tag and author archives."
+msgstr ""
+
+#: inc/admin.php:1921
+msgid "Amount of columns per row for all archives."
+msgstr ""
+
+#: inc/admin.php:1927
+msgid "Custom Headlines"
+msgstr ""
+
+#: inc/admin.php:1930
+msgid "Blog Headline"
+msgstr ""
+
+#: inc/admin.php:1931
+msgid ""
+"This headline is displayed on all blog index pages (posts page or front "
+"page, if set to display the blog)."
+msgstr ""
+
+#: inc/admin.php:1935
+msgid "Archive Headline (Prefix)"
+msgstr ""
+
+#: inc/admin.php:1936
+msgid "This headline is displayed on all blog archives."
+msgstr ""
+
+#: inc/admin.php:1943
+msgid "Excerpt"
+msgstr ""
+
+#: inc/admin.php:1944
+msgid "Full Post"
+msgstr ""
+
+#: inc/admin.php:1953
+msgid ""
+"This sets the display mode applied to posts displayed on index pages, such "
+"as a blog set as the front page, or a static posts page."
+msgstr ""
+
+#: inc/admin.php:1964
+msgid ""
+"This sets the display mode applied to posts displayed on archive pages, such "
+"as category or tag archives."
+msgstr ""
+
+#: inc/admin.php:1972
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/admin.php:1980
+msgid ""
+"This defines the length of excerpts as displayed on blog index and archive "
+"pages, in words."
+msgstr ""
+
+#: inc/admin.php:1981
+msgid "words"
+msgstr ""
+
+#: inc/admin.php:1987
+msgid "Related Posts"
+msgstr ""
+
+#: inc/admin.php:1988
+msgid ""
+"If this option is checked, related posts will be displayed underneath single "
+"page comments."
+msgstr ""
+
+#: inc/admin.php:1989
+msgid "Display related posts"
+msgstr ""
+
+#: inc/admin.php:1995
+msgid "Sidebars"
+msgstr ""
+
+#: inc/admin.php:1998
+msgid "Index Page"
+msgstr ""
+
+#: inc/admin.php:1999
+msgid "Display sidebar on index page"
+msgstr ""
+
+#: inc/admin.php:2000
+msgid ""
+"If this option is checked, a sidebar will be displayed on post index pages, "
+"that is a blog set as the front page, or a static posts page."
+msgstr ""
+
+#: inc/admin.php:2005
+msgid "Archive Pages"
+msgstr ""
+
+#: inc/admin.php:2006
+msgid "Display sidebar on archive pages"
+msgstr ""
+
+#: inc/admin.php:2007
+msgid ""
+"If this option is checked, a sidebar will be displayed on post archive "
+"pages, e.g. category and tag archives."
+msgstr ""
+
+#: inc/admin.php:2012
+msgid "Single Post Pages"
+msgstr ""
+
+#: inc/admin.php:2013
+msgid "Display sidebar on single post pages"
+msgstr ""
+
+#: inc/admin.php:2014
+msgid ""
+"If this option is checked, a sidebar will be displayed on single post pages."
+msgstr ""
+
+#: inc/admin.php:2021
+msgid "left"
+msgstr ""
+
+#: inc/admin.php:2022
+msgid "right"
+msgstr ""
+
+#: inc/admin.php:2028
+msgid "Select where you would like the sidebar to be displayed."
+msgstr ""
+
+#: inc/admin.php:2032
+msgid "Navigation"
+msgstr ""
+
+#: inc/admin.php:2035
+msgid "None (only first page)"
+msgstr ""
+
+#: inc/admin.php:2036
+msgid "Numeric (1...10)"
+msgstr ""
+
+#: inc/admin.php:2037
+msgid "Older posts/newer posts"
+msgstr ""
+
+#: inc/admin.php:2048
+msgid ""
+"Define which posts navigation type you would like to use for blog index "
+"pages."
+msgstr ""
+
+#: inc/admin.php:2059
+msgid ""
+"Define which posts navigation type you would like to use for blog archive "
+"pages, such as the category and author archives."
+msgstr ""
+
+#: inc/admin.php:2065
+msgid "Previous post/next post"
+msgstr ""
+
+#: inc/admin.php:2075
+msgid ""
+"Define which posts navigation type you would like to use for single post "
+"pages only."
+msgstr ""
+
+#: inc/admin.php:2081
+msgid "Social Sharing"
+msgstr ""
+
+#: inc/admin.php:2084
+msgid "Blog Posts"
+msgstr ""
+
+#: inc/admin.php:2085
+msgid "Enable social sharing icons for blog posts"
+msgstr ""
+
+#: inc/admin.php:2098
+msgid "reddit"
+msgstr ""
+
+#: inc/admin.php:2099
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/admin.php:2100
+msgid "VK"
+msgstr ""
+
+#: inc/admin.php:2107 widgets/widget-countdown.php:62
+#: widgets/widget-share.php:61 widgets/widget-social-icons.php:61
+msgid "White"
+msgstr ""
+
+#: inc/admin.php:2108 widgets/widget-countdown.php:66
+#: widgets/widget-share.php:65 widgets/widget-social-icons.php:65
+msgid "Black"
+msgstr ""
+
+#: inc/admin.php:2118
+msgid ""
+"Select which style you would like to use for the sharing icons. This setting "
+"can be overwritten by widget settings."
+msgstr ""
+
+#: inc/admin.php:2125 widgets/widget-share.php:84
+#: widgets/widget-social-icons.php:84
+msgid "Tiny"
+msgstr ""
+
+#: inc/admin.php:2126 widgets/widget-countdown.php:85
+#: widgets/widget-payment-icons.php:101 widgets/widget-share.php:88
+#: widgets/widget-social-icons.php:88
+msgid "Small"
+msgstr ""
+
+#: inc/admin.php:2127 widgets/widget-countdown.php:89
+#: widgets/widget-gallery.php:40 widgets/widget-payment-icons.php:105
+#: widgets/widget-portfolio-item.php:40 widgets/widget-share.php:92
+#: widgets/widget-social-icons.php:92
+msgid "Medium"
+msgstr ""
+
+#: inc/admin.php:2128 widgets/widget-countdown.php:93
+#: widgets/widget-gallery.php:36 widgets/widget-payment-icons.php:109
+#: widgets/widget-portfolio-item.php:36 widgets/widget-share.php:96
+#: widgets/widget-social-icons.php:96 widgets/widget-testimonial.php:58
+msgid "Large"
+msgstr ""
+
+#: inc/admin.php:2137
+msgid ""
+"Select a size for the sharing icons. This setting can be overwritten by "
+"widget settings."
+msgstr ""
+
+#: inc/admin.php:2152
+msgid ""
+"Select which icons you would like to display. These icons will be added to "
+"the end of your blog posts if social sharing icons are enabled. Please note "
+"that not all social networks have an option to share posts."
+msgstr ""
+
+#: inc/admin.php:2159
+msgid "Custom Shortcode"
+msgstr ""
+
+#: inc/admin.php:2160
+msgid ""
+"If not empty, the content of this field will be parsed for shortcodes and "
+"the output added after your post content instead of the built-in social "
+"sharing icons."
+msgstr ""
+
+#: inc/admin.php:2173
+msgid "Mailing Lists and Forms"
+msgstr ""
+
+#: inc/admin.php:2175
+msgid "Embed Codes"
+msgstr ""
+
+#: inc/admin.php:2177
+msgid ""
+"This section allows you to enter third party HTML embed/integration code to "
+"be used globally with the INB Opt-In widget. This enables the integration of "
+"popular third party mailing list services like MailChimp and AWeber.<br /"
+">Contact Form 7 and Gravity Forms are also supported, for contact forms, and "
+"they come with their own native and custom widgets."
+msgstr ""
+
+#: inc/admin.php:2185
+msgid "This name helps you identify your forms."
+msgstr ""
+
+#: inc/admin.php:2189
+msgid "HTML Embed Code"
+msgstr ""
+
+#: inc/admin.php:2190
+msgid ""
+"This field contains plain HTML, just the form tag and the form fields, no "
+"additional scripts, styling, labels, wrappers etc.; the Clean Form Code "
+"button sanitizes the form input and removes unnecessary mark-up from the raw "
+"embed code."
+msgstr ""
+
+#: inc/admin.php:2202
+msgid ""
+"Create as many forms as you need. Forms can be used in sidebar widgets or "
+"within the page builder they can be contact or sign-up forms."
+msgstr ""
+
+#: inc/admin.php:2215
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: inc/admin.php:2221
+msgid "WC Default Profile"
+msgstr ""
+
+#: inc/admin.php:2222
+msgid ""
+"This settings profile will be used for all WooCommerce pages. If no profile "
+"is selected, the site's default profile will be used."
+msgstr ""
+
+#: inc/admin.php:2227
+msgid "WC Default Banner"
+msgstr ""
+
+#: inc/admin.php:2228
+msgid ""
+"This overrides the default profile's banner setting and displays the "
+"selected banner on every WooCommerce page by default. If no selection is "
+"made, the profile's banner will be used instead, if set."
+msgstr ""
+
+#: inc/admin.php:2235
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/admin.php:2236
+msgid "Enable WooCommerce shopping cart in header"
+msgstr ""
+
+#: inc/admin.php:2237
+msgid ""
+"If this option is checked, a shopping cart icon with a shopping cart widget "
+"will be placed in the header."
+msgstr ""
+
+#: inc/admin.php:2254
+msgid "Amount of columns to display per row."
+msgstr ""
+
+#: inc/admin.php:2261
+msgid "Products per Page"
+msgstr ""
+
+#: inc/admin.php:2269
+msgid ""
+"This defines how many products are displayed per page. This option applies "
+"to all product lists, on index and archive pages, in search results and "
+"related products."
+msgstr ""
+
+#: inc/admin.php:2286
+msgid "Select whether and where you would like the sidebar to be displayed."
+msgstr ""
+
+#: inc/admin.php:2291
+msgid "Specific Sidebars"
+msgstr ""
+
+#: inc/admin.php:2292
+msgid "Enable WooCommerce-specific sidebars"
+msgstr ""
+
+#: inc/admin.php:2293
+msgid ""
+"If this option is checked, theme default sidebars will be replaced with "
+"WooCommerce-specific sidebars."
+msgstr ""
+
+#: inc/admin.php:2307
+msgid "Import and Export"
+msgstr ""
+
+#: inc/admin.php:2319
+#, php-format
+msgid ""
+"Inbound uses the <a href=\"%1$s\" target=\"_blank\">SiteOrigin Page Builder "
+"plug-in</a> as its page builder. It comes with its own <a href=\"%2$s\" "
+"target=\"_blank\">documentation</a>."
+msgstr ""
+
+#: inc/admin.php:2323
+msgid "Copy Content"
+msgstr ""
+
+#: inc/admin.php:2324
+msgid "Copy page builder content into default editor"
+msgstr ""
+
+#: inc/admin.php:2325
+msgid ""
+"If this option is checked, rendered content will be copied into the default "
+"content editor, for plug-ins to be able to pick up that content for analysis."
+msgstr ""
+
+#: inc/admin.php:2329
+msgid "Bundled Widgets"
+msgstr ""
+
+#: inc/admin.php:2330
+msgid "Enable bundled widgets"
+msgstr ""
+
+#: inc/admin.php:2331
+msgid ""
+"If this option is checked, the default widgets that ship with the page "
+"builder will be available."
+msgstr ""
+
+#: inc/admin.php:2335
+msgid "Inline CSS"
+msgstr ""
+
+#: inc/admin.php:2336
+msgid "Generate inline CSS code"
+msgstr ""
+
+#: inc/admin.php:2344
+msgid "Mobile Width"
+msgstr ""
+
+#: inc/admin.php:2352
+msgid "Mobile content width"
+msgstr ""
+
+#: inc/admin.php:2358
+msgid "Use Tablet Layout"
+msgstr ""
+
+#: inc/admin.php:2359
+msgid ""
+"Collapses the layout differently on tablet devices, using the tablet width "
+"set below."
+msgstr ""
+
+#: inc/admin.php:2365
+msgid "Tablet Width"
+msgstr ""
+
+#: inc/admin.php:2373
+msgid "Mobile content width (tablet only)"
+msgstr ""
+
+#: inc/admin.php:2381
+msgid "Row Bottom Margin"
+msgstr ""
+
+#: inc/admin.php:2389
+msgid "Fixed bottom margin for every row"
+msgstr ""
+
+#: inc/admin.php:2397
+msgid "Cell Side Margins"
+msgstr ""
+
+#: inc/admin.php:2405
+msgid "Margin to be added to the sides of each cell"
+msgstr ""
+
+#: inc/admin.php:2411
+msgid "Row Defaults"
+msgstr ""
+
+#: inc/admin.php:2416
+msgid "Margin (Bottom)"
+msgstr ""
+
+#: inc/admin.php:2424
+msgid "Default bottom margin if none is set for the row."
+msgstr ""
+
+#: inc/admin.php:2434 inc/panels.php:112 inc/panels.php:306
+msgid "Padding (Top)"
+msgstr ""
+
+#: inc/admin.php:2442
+msgid ""
+"Default padding at the top of each row. Used if no value is set in the page "
+"builder's row options."
+msgstr ""
+
+#: inc/admin.php:2451 inc/panels.php:120 inc/panels.php:314
+msgid "Padding (Bottom)"
+msgstr ""
+
+#: inc/admin.php:2459
+msgid ""
+"Default padding at the bottom of each row. Used if no value is set in the "
+"page builder's row options."
+msgstr ""
+
+#: inc/admin.php:2468 inc/panels.php:128 inc/panels.php:322
+msgid "Padding (Left)"
+msgstr ""
+
+#: inc/admin.php:2476
+msgid ""
+"Default padding at the left of each row. Used if no value is set in the page "
+"builder's row options."
+msgstr ""
+
+#: inc/admin.php:2485 inc/panels.php:136 inc/panels.php:330
+msgid "Padding (Right)"
+msgstr ""
+
+#: inc/admin.php:2493
+msgid ""
+"Default padding at the right of each row. Used if no value is set in the "
+"page builder's row options."
+msgstr ""
+
+#: inc/admin.php:2500
+msgid "Post Types"
+msgstr ""
+
+#: inc/admin.php:2508
+msgid ""
+"Select the post types for which the page builder should be available. Note "
+"that some features designed for posts and pages may not or only partially "
+"work with custom post types."
+msgstr ""
+
+#: inc/admin.php:2522
+msgid "Advanced Settings"
+msgstr ""
+
+#: inc/admin.php:2524
+msgid "Global Custom Code"
+msgstr ""
+
+#: inc/admin.php:2525
+msgid ""
+"Code added to this section is always applied. It can be overwritten by "
+"profiles or individual pages."
+msgstr ""
+
+#: inc/admin.php:2528
+msgid "This custom CSS will be added to the theme's header."
+msgstr ""
+
+#: inc/admin.php:2532
+msgid "Custom Scripts (Header)"
+msgstr ""
+
+#: inc/admin.php:2533
+msgid "Custom scripts entered here will be added to the theme's header."
+msgstr ""
+
+#: inc/admin.php:2537
+msgid "Custom Scripts (Footer)"
+msgstr ""
+
+#: inc/admin.php:2538
+msgid "Custom scripts entered here will be added to the theme's footer."
+msgstr ""
+
+#: inc/admin.php:2545
+msgid ""
+"Shortcodes will be executed prior to the templates being rendered. You can "
+"use this option to change settings, modify template output or to remove "
+"theme features dynamically."
+msgstr ""
+
+#: inc/admin.php:2550
+msgid "Parse for custom blocks"
+msgstr ""
+
+#: inc/admin.php:2551
+msgid "Parse customization shortcodes block"
+msgstr ""
+
+#: inc/admin.php:2552
+msgid ""
+"If this option is checked, the theme will parse for and execute custom "
+"blocks in this order: defined by shortcode, defined by custom PHP function "
+"through plug-in or child theme, defined by custom template."
+msgstr ""
+
+#: inc/admin.php:2558
+msgid "Performance Settings"
+msgstr ""
+
+#: inc/admin.php:2562
+msgid "Output to page header"
+msgstr ""
+
+#: inc/admin.php:2569
+msgid "Select how you would like dynamically generated CSS code to be handled."
+msgstr ""
+
+#: inc/admin.php:2574
+msgid "Minify CSS"
+msgstr ""
+
+#: inc/admin.php:2575
+msgid "Minify generated dynamic CSS code."
+msgstr ""
+
+#: inc/admin.php:2576
+msgid ""
+"If this option is checked, the theme will compress or minify all generated "
+"CSS code before it is sent to the browser."
+msgstr ""
+
+#: inc/admin.php:2581
+msgid "Disable animations"
+msgstr ""
+
+#: inc/admin.php:2582
+msgid "Disable animations for rows and widgets."
+msgstr ""
+
+#: inc/admin.php:2583
+msgid ""
+"If this option is checked, the tbeme will not load resources for animations "
+"and disable the animation feature globally."
+msgstr ""
+
+#: inc/admin.php:2609
+msgid "Custom Category Banner"
+msgstr ""
+
+#: inc/admin.php:2610
+msgid ""
+"If a banner is selected, it will be displayed for this category's archive "
+"pages."
+msgstr ""
+
+#: inc/admin.php:2622
+msgid "Enter profile name here"
+msgstr ""
+
+#: inc/admin.php:2624
+msgid "Enter banner title here"
+msgstr ""
+
+#: inc/admin.php:2654 lib/admin/admin-page-class.php:388
+msgid "Inbound Options"
+msgstr ""
+
+#. Author of the plugin/theme
+#: inc/admin.php:2674
+msgid "ShapingRain.com"
+msgstr ""
+
+#: inc/admin.php:2792 inc/admin.php:2903
+msgid "Site Default"
+msgstr ""
+
+#: inc/admin.php:2797 inc/admin.php:2906
+msgid "Blog Default"
+msgstr ""
+
+#: inc/admin.php:2803 inc/admin.php:2909
+msgid "WooCommerce Default"
+msgstr ""
+
+#: inc/admin.php:2963
+msgid ""
+"You cannot delete your Site Default Profile. In order to do so, create a new "
+"profile, make it your Site Default Profile and then delete the original one."
+msgstr ""
+
+#: inc/admin.php:2996
+msgid "Visual Page Editor"
+msgstr ""
+
+#: inc/admin.php:2997
+msgid ""
+"We recommend that you build pages with the visual page editor. That way you "
+"can profit from the theme's many built-in widgets and design settings."
+msgstr ""
+
+#: inc/admin.php:3007
+msgid "Visual Banner Editor"
+msgstr ""
+
+#: inc/admin.php:3008
+msgid ""
+"We recommend that you edit your banners using the visual page editor. That "
+"way you can profit from the theme's many built-in widgets and design "
+"settings."
+msgstr ""
+
+#: inc/admin.php:3018
+msgid "Select a settings profile"
+msgstr ""
+
+#: inc/admin.php:3019
+msgid ""
+"Each page can use a different settings profile. That way you can make each "
+"page look different, with unique colours, fonts and settings."
+msgstr ""
+
+#: inc/admin.php:3029
+msgid "Edit Modal Window Content"
+msgstr ""
+
+#: inc/admin.php:3030
+msgid ""
+"This is where you add the content to be displayed inside the modal window. "
+"The content is parsed for shortcodes and may contain media."
+msgstr ""
+
+#: inc/admin.php:3040
+msgid "Global Theme Settings"
+msgstr ""
+
+#: inc/admin.php:3041
+msgid ""
+"This screen contains <strong>global theme settings</strong> that apply to "
+"the theme as a whole. They control the blog, theme extensions like third "
+"party integrations and some advanced settings."
+msgstr ""
+
+#: inc/admin.php:3052
+msgid ""
+"Edit <strong>profiles</strong> to control visual aspects of the theme, like "
+"fonts, colors and background images. By default there is only one design "
+"profile, but you can create as many as you like and assign separate profiles "
+"to different pages. That way you can create pages with completely unique "
+"designs without affecting the overall look and feel of the rest of your site."
+msgstr ""
+
+#: inc/admin_extras.php:50
+#, php-format
+msgid ""
+"<p>This page is currently set as the <a href=\"%s\">posts page</a>. Because "
+"it will display your most recent posts, the content editor is hidden. The "
+"purpose of this page is to reserve a URL for your posts page.</p><p>To "
+"change how this page is displayed, edit the <a href=\"%s\">Theme Options</"
+"a>. </p>"
+msgstr ""
+
+#: inc/admin_extras.php:63
+msgid "Save Settings"
+msgstr ""
+
+#: inc/admin_extras.php:76 lib/widget-class.php:575
+msgid "All"
+msgstr ""
+
+#: inc/admin_extras.php:77
+msgid "Layout &amp; Design"
+msgstr ""
+
+#: inc/admin_extras.php:81
+msgid "Social Media"
+msgstr ""
+
+#: inc/admin_extras.php:110 inc/admin_extras.php:147
+msgid "Edit Profile"
+msgstr ""
+
+#: inc/admin_extras.php:121 inc/admin_extras.php:151
+msgid "Edit Banner"
+msgstr ""
+
+#: inc/null.php:44
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/null.php:44
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/onepage.php:31 inc/onepage.php:56
+msgid "Menu Options"
+msgstr ""
+
+#: inc/onepage.php:41 inc/onepage.php:66
+msgid "Menu Slug"
+msgstr ""
+
+#: inc/onepage.php:44 inc/onepage.php:69
+msgid ""
+"This is the slug used to generate an ID to link to in a one-page menu. It "
+"needs to be unique among all page builder rows and widgets used, including "
+"the banner and must not collide with other CSS IDs used anywhere on the page."
+msgstr ""
+
+#: inc/panels.php:82
+msgid "Row Text Alignment"
+msgstr ""
+
+#: inc/panels.php:94
+msgid "Equal widget height (experimental)"
+msgstr ""
+
+#: inc/panels.php:96
+msgid ""
+"If this option is checked, all widgets in this row will have the same "
+"height. Does not work with stacked widgets."
+msgstr ""
+
+#: inc/panels.php:100
+msgid "Row Layout"
+msgstr ""
+
+#: inc/panels.php:104
+msgid "Standard"
+msgstr ""
+
+#: inc/panels.php:106
+msgid "Full Width (stretched)"
+msgstr ""
+
+#: inc/panels.php:115
+msgid "Padding at the top of the row."
+msgstr ""
+
+#: inc/panels.php:123
+msgid "Padding at the bottom of the row."
+msgstr ""
+
+#: inc/panels.php:131
+msgid "Padding at the left of the row."
+msgstr ""
+
+#: inc/panels.php:139
+msgid "Padding at the right of the row."
+msgstr ""
+
+#: inc/panels.php:144
+msgid "Fixed"
+msgstr ""
+
+#: inc/panels.php:145
+msgid "Cover"
+msgstr ""
+
+#: inc/panels.php:146
+msgid "Centered, with original size"
+msgstr ""
+
+#: inc/panels.php:147
+msgid "Parallax"
+msgstr ""
+
+#: inc/panels.php:148
+msgid "Tile"
+msgstr ""
+
+#: inc/panels.php:154
+msgid "Hide on mobile phones"
+msgstr ""
+
+#: inc/panels.php:157
+msgid ""
+"Hides the entire row on smartphones or other devices with very small screens."
+msgstr ""
+
+#: inc/panels.php:162 inc/panels.php:347
+msgid "Hide on tablets"
+msgstr ""
+
+#: inc/panels.php:165
+msgid "Hides the entire row on tablets or laptops with small screens."
+msgstr ""
+
+#: inc/panels.php:170 inc/panels.php:355
+msgid "Hide on desktops"
+msgstr ""
+
+#: inc/panels.php:173
+msgid "Hides the entire row on desktop or laptop computers with large screens."
+msgstr ""
+
+#: inc/panels.php:182 inc/panels.php:367
+#: lib/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/panels.php:187 inc/panels.php:372
+msgid "bounce"
+msgstr ""
+
+#: inc/panels.php:188 inc/panels.php:373
+msgid "flash"
+msgstr ""
+
+#: inc/panels.php:189 inc/panels.php:374
+msgid "pulse"
+msgstr ""
+
+#: inc/panels.php:190 inc/panels.php:375
+msgid "rubberBand"
+msgstr ""
+
+#: inc/panels.php:191 inc/panels.php:376
+msgid "shake"
+msgstr ""
+
+#: inc/panels.php:192 inc/panels.php:377
+msgid "swing"
+msgstr ""
+
+#: inc/panels.php:193 inc/panels.php:378
+msgid "tada"
+msgstr ""
+
+#: inc/panels.php:194 inc/panels.php:379
+msgid "wobble"
+msgstr ""
+
+#: inc/panels.php:195 inc/panels.php:380
+msgid "jello"
+msgstr ""
+
+#: inc/panels.php:196 inc/panels.php:381
+msgid "bounceIn"
+msgstr ""
+
+#: inc/panels.php:197 inc/panels.php:382
+msgid "bounceInDown"
+msgstr ""
+
+#: inc/panels.php:198 inc/panels.php:383
+msgid "bounceInLeft"
+msgstr ""
+
+#: inc/panels.php:199 inc/panels.php:384
+msgid "bounceInRight"
+msgstr ""
+
+#: inc/panels.php:200 inc/panels.php:385
+msgid "bounceInUp"
+msgstr ""
+
+#: inc/panels.php:201 inc/panels.php:386
+msgid "bounceOut"
+msgstr ""
+
+#: inc/panels.php:202 inc/panels.php:387
+msgid "bounceOutDown"
+msgstr ""
+
+#: inc/panels.php:203 inc/panels.php:388
+msgid "bounceOutLeft"
+msgstr ""
+
+#: inc/panels.php:204 inc/panels.php:389
+msgid "bounceOutRight"
+msgstr ""
+
+#: inc/panels.php:205 inc/panels.php:390
+msgid "bounceOutUp"
+msgstr ""
+
+#: inc/panels.php:206 inc/panels.php:391
+msgid "fadeIn"
+msgstr ""
+
+#: inc/panels.php:207 inc/panels.php:392
+msgid "fadeInDown"
+msgstr ""
+
+#: inc/panels.php:208 inc/panels.php:393
+msgid "fadeInDownBig"
+msgstr ""
+
+#: inc/panels.php:209 inc/panels.php:394
+msgid "fadeInLeft"
+msgstr ""
+
+#: inc/panels.php:210 inc/panels.php:395
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: inc/panels.php:211 inc/panels.php:396
+msgid "fadeInRight"
+msgstr ""
+
+#: inc/panels.php:212 inc/panels.php:397
+msgid "fadeInRightBig"
+msgstr ""
+
+#: inc/panels.php:213 inc/panels.php:398
+msgid "fadeInUp"
+msgstr ""
+
+#: inc/panels.php:214 inc/panels.php:399
+msgid "fadeInUpBig"
+msgstr ""
+
+#: inc/panels.php:215 inc/panels.php:400
+msgid "fadeOut"
+msgstr ""
+
+#: inc/panels.php:216 inc/panels.php:401
+msgid "fadeOutDown"
+msgstr ""
+
+#: inc/panels.php:217 inc/panels.php:402
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: inc/panels.php:218 inc/panels.php:403
+msgid "fadeOutLeft"
+msgstr ""
+
+#: inc/panels.php:219 inc/panels.php:404
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: inc/panels.php:220 inc/panels.php:405
+msgid "fadeOutRight"
+msgstr ""
+
+#: inc/panels.php:221 inc/panels.php:406
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: inc/panels.php:222 inc/panels.php:407
+msgid "fadeOutUp"
+msgstr ""
+
+#: inc/panels.php:223 inc/panels.php:408
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: inc/panels.php:224 inc/panels.php:409
+msgid "flipInX"
+msgstr ""
+
+#: inc/panels.php:225 inc/panels.php:410
+msgid "flipInY"
+msgstr ""
+
+#: inc/panels.php:226 inc/panels.php:411
+msgid "flipOutX"
+msgstr ""
+
+#: inc/panels.php:227 inc/panels.php:412
+msgid "flipOutY"
+msgstr ""
+
+#: inc/panels.php:228 inc/panels.php:413
+msgid "lightSpeedIn"
+msgstr ""
+
+#: inc/panels.php:229 inc/panels.php:414
+msgid "lightSpeedOut"
+msgstr ""
+
+#: inc/panels.php:231 inc/panels.php:416
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: inc/panels.php:232 inc/panels.php:417
+msgid "rotateInDownRight"
+msgstr ""
+
+#: inc/panels.php:233 inc/panels.php:418
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: inc/panels.php:234 inc/panels.php:419
+msgid "rotateInUpRight"
+msgstr ""
+
+#: inc/panels.php:235 inc/panels.php:420
+msgid "rotateOut"
+msgstr ""
+
+#: inc/panels.php:236 inc/panels.php:421
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: inc/panels.php:237 inc/panels.php:422
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: inc/panels.php:238 inc/panels.php:423
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: inc/panels.php:239 inc/panels.php:424
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: inc/panels.php:240 inc/panels.php:425
+msgid "hinge"
+msgstr ""
+
+#: inc/panels.php:241 inc/panels.php:426
+msgid "rollIn"
+msgstr ""
+
+#: inc/panels.php:242 inc/panels.php:427
+msgid "rollOut"
+msgstr ""
+
+#: inc/panels.php:243 inc/panels.php:428
+msgid "zoomIn"
+msgstr ""
+
+#: inc/panels.php:244 inc/panels.php:429
+msgid "zoomInDown"
+msgstr ""
+
+#: inc/panels.php:245 inc/panels.php:430
+msgid "zoomInLeft"
+msgstr ""
+
+#: inc/panels.php:246 inc/panels.php:431
+msgid "zoomInRight"
+msgstr ""
+
+#: inc/panels.php:247 inc/panels.php:432
+msgid "zoomInUp"
+msgstr ""
+
+#: inc/panels.php:248 inc/panels.php:433
+msgid "zoomOut"
+msgstr ""
+
+#: inc/panels.php:249 inc/panels.php:434
+msgid "zoomOutDown"
+msgstr ""
+
+#: inc/panels.php:250 inc/panels.php:435
+msgid "zoomOutLeft"
+msgstr ""
+
+#: inc/panels.php:251 inc/panels.php:436
+msgid "zoomOutRight"
+msgstr ""
+
+#: inc/panels.php:252 inc/panels.php:437
+msgid "zoomOutUp"
+msgstr ""
+
+#: inc/panels.php:253 inc/panels.php:438
+msgid "slideInDown"
+msgstr ""
+
+#: inc/panels.php:254 inc/panels.php:439
+msgid "slideInLeft"
+msgstr ""
+
+#: inc/panels.php:255 inc/panels.php:440
+msgid "slideInRight"
+msgstr ""
+
+#: inc/panels.php:256 inc/panels.php:441
+msgid "slideInUp"
+msgstr ""
+
+#: inc/panels.php:257 inc/panels.php:442
+msgid "slideOutDown"
+msgstr ""
+
+#: inc/panels.php:258 inc/panels.php:443
+msgid "slideOutLeft"
+msgstr ""
+
+#: inc/panels.php:259 inc/panels.php:444
+msgid "slideOutRight"
+msgstr ""
+
+#: inc/panels.php:260 inc/panels.php:445
+msgid "slideOutUp"
+msgstr ""
+
+#: inc/panels.php:266 inc/panels.php:451
+msgid "Duration"
+msgstr ""
+
+#: inc/panels.php:269 inc/panels.php:454
+msgid "Duration of animation in milliseconds (e.g. 1000)."
+msgstr ""
+
+#: inc/panels.php:274 inc/panels.php:459
+msgid "Delay"
+msgstr ""
+
+#: inc/panels.php:277 inc/panels.php:462
+msgid "Delay before the animation starts in milliseconds (e.g. 1000)."
+msgstr ""
+
+#: inc/panels.php:292
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/panels.php:295
+msgid "Row Default"
+msgstr ""
+
+#: inc/panels.php:309
+msgid "Padding at the top of the widget."
+msgstr ""
+
+#: inc/panels.php:317
+msgid "Padding at the bottom of the widget."
+msgstr ""
+
+#: inc/panels.php:325
+msgid "Padding at the left of the widget."
+msgstr ""
+
+#: inc/panels.php:333
+msgid "Padding at the right of the widget."
+msgstr ""
+
+#: inc/panels.php:339
+msgid "Hide on mobile devices"
+msgstr ""
+
+#: inc/panels.php:342
+msgid "Hides this widget on mobile devices."
+msgstr ""
+
+#: inc/panels.php:350
+msgid "Hides this widget on tablets or laptops with small screens."
+msgstr ""
+
+#: inc/panels.php:358
+msgid "Hides this widget on desktop or laptop computers with large screens."
+msgstr ""
+
+#: inc/panels.php:726 inc/panels.php:745
+msgid "Animation"
+msgstr ""
+
+#: inc/panels.php:732 inc/panels.php:751
+msgid "Responsiveness"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: inc/panels.php:762
+msgid "Inbound"
+msgstr ""
+
+#: inc/plugins.php:19
+msgid "SiteOrigin Page Builder"
+msgstr ""
+
+#: inc/plugins.php:26
+msgid "Inbound Core Feature Pack"
+msgstr ""
+
+#: inc/plugins.php:49 lib/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins.php:50 lib/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugins.php:51 lib/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugins.php:52 lib/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugins.php:53 lib/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins.php:54 lib/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins.php:55
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins.php:56 lib/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins.php:57 lib/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins.php:58
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins.php:59 lib/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins.php:60
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins.php:61 lib/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins.php:62 lib/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins.php:63 lib/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins.php:64 lib/class-tgm-plugin-activation.php:387
+#: lib/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins.php:65
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/setup.php:9
+msgid "Inbound for WordPress Setup"
+msgstr ""
+
+#: inc/setup.php:49 inc/setup.php:87 inc/setup.php:168 inc/setup.php:235
+#: inc/setup.php:384
+msgid "Welcome to Inbound for WordPress"
+msgstr ""
+
+#: inc/setup.php:50 inc/setup.php:88 inc/setup.php:236 inc/setup.php:385
+msgid ""
+"Before you can use your site with Inbound, we need to set up a few things."
+msgstr ""
+
+#: inc/setup.php:54 inc/setup.php:92 inc/setup.php:173 inc/setup.php:249
+msgid "Welcome"
+msgstr ""
+
+#: inc/setup.php:55 inc/setup.php:93 inc/setup.php:174 inc/setup.php:250
+msgid "Select Template"
+msgstr ""
+
+#: inc/setup.php:56 inc/setup.php:94 inc/setup.php:175 inc/setup.php:251
+msgid "Finish"
+msgstr ""
+
+#: inc/setup.php:58 inc/setup.php:96 inc/setup.php:177 inc/setup.php:253
+#: inc/setup.php:418
+msgid "Need Help? Get assistance!"
+msgstr ""
+
+#: inc/setup.php:62
+msgid "Installation & Getting Started"
+msgstr ""
+
+#: inc/setup.php:64
+msgid ""
+"Thank you for installing Inbound for WordPress. The theme has been "
+"successfully activated, but before you can use it, we need to set up some "
+"defaults to make the theme look just the way you want it. This will only "
+"take seconds."
+msgstr ""
+
+#: inc/setup.php:66
+msgid "Start setup"
+msgstr ""
+
+#: inc/setup.php:67
+msgid "Skip setup"
+msgstr ""
+
+#: inc/setup.php:71 inc/setup.php:108 inc/setup.php:189
+msgid "Customer support is just a click away"
+msgstr ""
+
+#: inc/setup.php:72 inc/setup.php:109 inc/setup.php:190
+msgid ""
+"If at any time you need any assistance, please contact customer support via "
+"email or live chat. Please note that we do not provide any customer support "
+"through the themeforest comments section though."
+msgstr ""
+
+#: inc/setup.php:73 inc/setup.php:110 inc/setup.php:191
+msgid "Get Support from ShapingRain.com"
+msgstr ""
+
+#: inc/setup.php:100
+msgid "Installation & Getting Started: Prerequisites"
+msgstr ""
+
+#: inc/setup.php:102
+msgid ""
+"Thank you for installing Inbound for WordPress. This theme <strong>requires "
+"the SiteOrigin Page Builder</strong> plug-in for many of its features and in "
+"order to use our starter templates and the widgets that ship with the "
+"theme.  The theme also <strong>requires core plug-ins</strong> which ship "
+"with the theme and need to be installed and activated as well before the "
+"theme can be used."
+msgstr ""
+
+#: inc/setup.php:104
+msgid "Install required plug-ins"
+msgstr ""
+
+#: inc/setup.php:169
+msgid "Congratulations! You are now ready to use the theme."
+msgstr ""
+
+#: inc/setup.php:181
+msgid "Everything is ready to go"
+msgstr ""
+
+#: inc/setup.php:183
+msgid ""
+"The theme is now ready to be used. You can start editing contents and "
+"customizing the template. The user guide that ships with the theme is "
+"available to guide you through the user interface."
+msgstr ""
+
+#: inc/setup.php:185
+msgid "Explore your site"
+msgstr ""
+
+#: inc/setup.php:239
+msgid "An unexpected error has occured"
+msgstr ""
+
+#: inc/setup.php:243
+msgid "Ask customer support for help"
+msgstr ""
+
+#: inc/setup.php:257
+msgid "Select your starting template"
+msgstr ""
+
+#: inc/setup.php:257
+msgid ""
+"This is where you select how you would like the theme to look like. This is "
+"meant as a starting point, a design from which you can develop your own. You "
+"can always come back here and try other designs, too."
+msgstr ""
+
+#: inc/setup.php:267
+#, php-format
+msgid ""
+"The theme's local repository directory (<em>%s</em>) does not exist or "
+"cannot be accessed by the theme. This directory is normally created "
+"automatically during the theme's setup, but may have been accidentally "
+"deleted, or file permissions may have been changed. Consider following the "
+"theme's troubleshooting guide or contact customer support via "
+"support@shapingrain.com for assistance."
+msgstr ""
+
+#: inc/setup.php:269
+msgid "There are no packages in the repository to install."
+msgstr ""
+
+#: inc/setup.php:277
+msgid "Additional Options"
+msgstr ""
+
+#: inc/setup.php:279
+msgid "Set up this template as your static front page."
+msgstr ""
+
+#: inc/setup.php:279
+msgid ""
+"When this option is checked, the theme will import the selected template and "
+"make the newly imported page your front page. You can change your front page "
+"later in your WordPress settings."
+msgstr ""
+
+#: inc/setup.php:282
+msgid "Set the profile associated with this template as your site default."
+msgstr ""
+
+#: inc/setup.php:282
+msgid ""
+"When this option is checked, the theme will make the profile associated with "
+"the selected template your site default profile. That way all pages will use "
+"the same basic design, e.g. colors, header settings etc."
+msgstr ""
+
+#: inc/setup.php:286
+msgid "Skip import of images associated with this template."
+msgstr ""
+
+#: inc/setup.php:286
+msgid ""
+"If this option is checked, the template import tool will not import any "
+"images attached to the template."
+msgstr ""
+
+#: inc/setup.php:292
+msgid "Proceed with import"
+msgstr ""
+
+#: inc/setup.php:299 inc/setup.php:306
+msgid "Upload template package"
+msgstr ""
+
+#: inc/setup.php:300
+msgid "Use remote repository"
+msgstr ""
+
+#: inc/setup.php:304
+msgid "Use local repository"
+msgstr ""
+
+#: inc/setup.php:305
+msgid "Refresh repository"
+msgstr ""
+
+#: inc/setup.php:311
+msgid "Show Log Console"
+msgstr ""
+
+#: inc/setup.php:315
+#, php-format
+msgid "Started: %s"
+msgstr ""
+
+#: inc/setup.php:335
+msgid "You need to be logged in to upload a theme package."
+msgstr ""
+
+#: inc/setup.php:340 inc/setup.php:513
+msgid ""
+"The current WordPress user does not have permissions required to edit theme "
+"options."
+msgstr ""
+
+#: inc/setup.php:361
+msgid ""
+"The package has been successfully uploaded and extracted into your "
+"repository."
+msgstr ""
+
+#: inc/setup.php:365
+msgid ""
+"There was an error unzipping the file. To resolve this issue, please check "
+"your upload directory permissions and refer to all the solutions offered in "
+"the troubleshooting guide that ships with the theme. Contact customer "
+"support via support@shapingrain.com if you need any help."
+msgstr ""
+
+#: inc/setup.php:371
+msgid "This file is not a valid zip archive."
+msgstr ""
+
+#: inc/setup.php:374
+msgid "There was a problem authenticating you while submitting the form."
+msgstr ""
+
+#: inc/setup.php:388
+msgid "Upload Template Package"
+msgstr ""
+
+#: inc/setup.php:400
+msgid ""
+"Please select a template package in .zip format. Only Inbound for WordPress "
+"packages are supported."
+msgstr ""
+
+#: inc/setup.php:408
+msgid "Upload package"
+msgstr ""
+
+#: inc/setup.php:413
+msgid "View local repository"
+msgstr ""
+
+#: inc/setup.php:497
+msgid "A security breach was detected."
+msgstr ""
+
+#: inc/setup.php:519
+msgid ""
+"The selected folder does not look like a valid option and execution of this "
+"command has been denied for security reasons. Please contact support if you "
+"think this happened in error."
+msgstr ""
+
+#: inc/setup.php:532
+msgid ""
+"Your WordPress upload directory does not exist or cannot be written to. "
+"Please check your WordPress directory permissions and try again."
+msgstr ""
+
+#: inc/setup.php:561
+#, php-format
+msgid ""
+"Download of package file (%1$s) from repository failed: %2$s.<br />If this "
+"issue persists, consider following the user guide's instructions for "
+"installing a template package manually or contact customer support for "
+"assistance."
+msgstr ""
+
+#: inc/setup.php:576
+msgid ""
+"The installed theme does not support this package. Please update the theme "
+"to its latest version."
+msgstr ""
+
+#: inc/setup.php:580
+msgid ""
+"Unable to read package manifest. Extraction of the package may have failed "
+"due to a lack of file permissions, or the package file was corrupted. Delete "
+"the package folder and try again."
+msgstr ""
+
+#: inc/setup.php:698
+msgid "Finished step:"
+msgstr ""
+
+#: inc/setup.php:708
+msgid "Initialization successful."
+msgstr ""
+
+#: inc/setup.php:1068
+#, php-format
+msgid "Imported image with new ID %s."
+msgstr ""
+
+#: inc/setup.php:1070
+#, php-format
+msgid "Skipped image with original ID %s (already exists)."
+msgstr ""
+
+#: inc/setup.php:1557
+msgid "Welcome to Inbound for WordPress!"
+msgstr ""
+
+#: inc/setup.php:1558
+msgid ""
+"The theme has been installed and activated but it has not been set up. In "
+"order to use the theme, please proceed with the setup procedure."
+msgstr ""
+
+#: inc/setup.php:1559
+msgid "Proceed with theme setup"
+msgstr ""
+
+#: inc/template-tags.php:102
+msgid "Next page"
+msgstr ""
+
+#: inc/template-tags.php:103
+msgid "Previous page"
+msgstr ""
+
+#: inc/template-tags.php:228
+msgid "Share on:"
+msgstr ""
+
+#: inc/template-tags.php:319 inc/template-tags.php:1150
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:329
+msgid "Previous Post"
+msgstr ""
+
+#: inc/template-tags.php:332
+msgid "Next Post"
+msgstr ""
+
+#: inc/template-tags.php:340 inc/template-tags.php:1120
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:344 inc/template-tags.php:1124
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:452
+msgid "You might also be interested in these posts..."
+msgstr ""
+
+#: inc/template-tags.php:490
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/template-tags.php:491 woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/template-tags.php:492
+msgid "Cancel Reply"
+msgstr ""
+
+#: inc/template-tags.php:493
+msgid "Post Comment"
+msgstr ""
+
+#: inc/template-tags.php:495
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: inc/template-tags.php:499
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: inc/template-tags.php:504
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: inc/template-tags.php:514
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/template-tags.php:524 widgets/widget-bio-block.php:120
+#: widgets/widget-bio-block.php:382 woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr ""
+
+#: inc/template-tags.php:528 inc/template-tags.php:549
+#: widgets/widget-bio-block.php:109 widgets/widget-bio-block.php:374
+msgid "Website"
+msgstr ""
+
+#: inc/template-tags.php:673
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:685
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:713
+#, php-format
+msgid "<time class=\"entry-date\" datetime=\"%3$s\">%4$s</time>"
+msgstr ""
+
+#: inc/template-tags.php:719 inc/template-tags.php:737
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/template-tags.php:731
+#, php-format
+msgid ""
+"<span class=\"author vcard meta_author\"><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></span>"
+msgstr ""
+
+#: inc/template-tags.php:767
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/template-tags.php:875
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:879 inc/template-tags.php:883
+#: inc/template-tags.php:887
+#, php-format
+msgid "Archive: %s"
+msgstr ""
+
+#: inc/template-tags.php:892
+#, php-format
+msgid "Author's Archive for %s"
+msgstr ""
+
+#: inc/template-tags.php:896
+#, php-format
+msgid "Blog Archive: %s"
+msgstr ""
+
+#: inc/template-tags.php:900
+#, php-format
+msgid "Search Results: %s"
+msgstr ""
+
+#: inc/template-tags.php:995
+#, php-format
+msgid "Search Results %1$s %2$s"
+msgstr ""
+
+#: inc/template-tags.php:1000
+msgid "Page not found"
+msgstr ""
+
+#: inc/template-tags.php:1115
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:1154
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: inc/template-tags.php:1155
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:1207
+msgid "Archives"
+msgstr ""
+
+#: inc/template-tags.php:1210 inc/template-tags.php:1212
+#: inc/template-tags.php:1214 inc/template-tags.php:1216
+#, php-format
+msgid "<span>%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:1212
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:1214
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:1525 inc/woocommerce.php:29
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/template-tags.php:1624
+msgid "Search ..."
+msgstr ""
+
+#: inc/woocommerce.php:41
+msgid "has been added to the cart."
+msgstr ""
+
+#: inc/woocommerce.php:124
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/woocommerce.php:125
+msgid "This sidebar is displayed on all WooCommerce pages."
+msgstr ""
+
+#: inc/woocommerce.php:134
+msgid "WooCommerce Footer Widgets"
+msgstr ""
+
+#: inc/woocommerce.php:135
+msgid "These footer widgets is displayed on all WooCommerce pages."
+msgstr ""
+
+#: lib/admin/admin-page-class.php:369 lib/admin/admin-page-class.php:371
+msgid "Insert into Post"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:369
+msgid "Use this File"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:371
+msgid "Use this Image"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:392
+msgid "Banners"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:396
+msgid "Templates"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:408 lib/admin/admin-page-class.php:565
+msgid "Save Changes"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:520
+msgid "Settings saved."
+msgstr ""
+
+#: lib/admin/admin-page-class.php:726 lib/admin/meta-box-class.php:141
+#: lib/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:824
+msgid "Delete this image"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:824 lib/admin/admin-page-class.php:1037
+#: lib/admin/admin-page-class.php:1100 lib/admin/admin-page-class.php:1416
+#: lib/admin/meta-box-class.php:382 lib/admin/meta-box-class.php:448
+msgid "Delete"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:1093 lib/admin/meta-box-class.php:441
+#: lib/admin/tax-meta-class.php:400
+msgid "Add"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:1099 lib/admin/meta-box-class.php:447
+msgid "New Item"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:1286
+msgid "Clean Form Code"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:1412
+msgid "Uploaded files"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:1423
+msgid "Upload new files"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:1429
+msgid "Add more files"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:1450 lib/admin/admin-page-class.php:1476
+msgid "Delete Image"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:1455 lib/admin/admin-page-class.php:1481
+#: lib/admin/meta-box-class.php:934 lib/admin/tax-meta-class.php:754
+msgid "Upload Image"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:1494
+msgid "Refreshing fonts database..."
+msgstr ""
+
+#: lib/admin/admin-page-class.php:1544 lib/admin/meta-box-class.php:677
+msgid "Select"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:1562 lib/admin/tax-meta-class.php:776
+msgid "Select a color"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2621
+msgid ""
+"Click the <code>Get Export Code</code> button below to retrieve the latest "
+"settings from the database. The export text can be copied and pasted to the "
+"import box of another installation, or to restore a previous state."
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2623
+msgid "Export Code"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2625
+msgid "Get Export Code"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2626 lib/admin/admin-page-class.php:2637
+msgid "Loading..."
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2630 lib/admin/admin-page-class.php:2635
+msgid "Import"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2631
+msgid ""
+"To import saved settings, paste the export output in to the <code>Import "
+"Code</code> box below and click <code>Import</code>."
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2633
+msgid "Import Code"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2636
+msgid "Factory Defaults"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2662 lib/admin/admin-page-class.php:2686
+#: lib/admin/admin-page-class.php:2805 lib/admin/admin-page-class.php:2851
+msgid "error in ajax request! (1)"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2672
+msgid "error in ajax request! (2)"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2714
+msgid "error in ajax request! (3)"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2723
+msgid "Settings successfully imported. Make sure you "
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2723
+msgid "Refresh this page"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2725
+msgid "Could not import settings! (4)"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2747
+msgid "You do not have sufficient permissions to edit templates for this site."
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2751
+msgid "Error Downloading file."
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2773 lib/admin/admin-page-class.php:2778
+msgid "Download"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2866
+msgid "The fonts database has been refreshed."
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2887
+msgid "Not Valid "
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2898
+msgid "Errors in saving changes"
+msgstr ""
+
+#: lib/admin/admin-page-class.php:2916
+msgid "Unknown Error"
+msgstr ""
+
+#: lib/admin/meta-box-class.php:602 lib/widget-class.php:998
+msgid "Select Icon"
+msgstr ""
+
+#: lib/admin/meta-box-class.php:932 lib/admin/tax-meta-class.php:752
+msgid "Remove Image"
+msgstr ""
+
+#: lib/admin/meta-box-class.php:961 lib/widget-class.php:962
+msgid "Select Items"
+msgstr ""
+
+#: lib/admin/meta-box-class.php:2001 lib/admin/meta-box-class.php:2011
+msgid "Sorry, you cannot upload this file type for this field."
+msgstr ""
+
+#: lib/admin/tax-meta-class.php:387 lib/admin/tax-meta-class.php:435
+msgid "Remove"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:386
+#: lib/class-tgm-plugin-activation.php:827
+#: lib/class-tgm-plugin-activation.php:2533
+#: lib/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:388
+#: lib/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:934
+#: lib/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1121
+#: lib/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3509
+#: lib/class-tgm-plugin-activation.php:3517 lib/image-helper-class.php:122
+msgid "Show Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3509
+#: lib/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/image-helper-class.php:121
+msgid "ERROR"
+msgstr ""
+
+#: lib/image-helper-class.php:121
+msgid "Check file permissions."
+msgstr ""
+
+#: lib/image-helper-class.php:123
+msgid "Slide ID: "
+msgstr ""
+
+#: lib/widget-class.php:718
+msgid "Select control and user interaction options."
+msgstr ""
+
+#: lib/widget-class.php:729
+msgid "Display navigation arrows"
+msgstr ""
+
+#: lib/widget-class.php:742
+msgid "Display item navigation pips"
+msgstr ""
+
+#: lib/widget-class.php:756
+msgid "Pause when the user hovers over the slider"
+msgstr ""
+
+#: lib/widget-class.php:770
+msgid "Pause when the user interacts with control elements"
+msgstr ""
+
+#: lib/widget-class.php:784
+msgid "Randomize slide order"
+msgstr ""
+
+#: lib/widget-class.php:793
+msgid ""
+"Select which transition to use and set the speed of the slideshow cycling in "
+"milliseconds."
+msgstr ""
+
+#: lib/widget-class.php:796
+msgid "Set the speed of the slideshow cycling in milliseconds."
+msgstr ""
+
+#: lib/widget-class.php:798
+msgid "Select which transition to use."
+msgstr ""
+
+#: lib/widget-class.php:805
+msgid "Slide"
+msgstr ""
+
+#: lib/widget-class.php:806
+msgid "Fade"
+msgstr ""
+
+#: lib/widget-class.php:1344
+msgid "Select Image"
+msgstr ""
+
+#: lib/widget-class.php:1345
+msgid "Clear"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: templates/banners/banner-blog.php:13 templates/banners/banner-blog.php:18
+#: templates/banners/banner-page.php:15
+#: templates/banners/banner-woocommerce.php:29
+msgid "You are here:"
+msgstr ""
+
+#: templates/banners/banner-woocommerce.php:22
+msgid "Shop"
+msgstr ""
+
+#: widgets/widget-bio-block.php:22
+msgid "INB Bio Block"
+msgstr ""
+
+#: widgets/widget-bio-block.php:24
+msgid ""
+"Displays picture, name, position and social icons to introduce a person."
+msgstr ""
+
+#: widgets/widget-bio-block.php:31
+msgid "Contact Options"
+msgstr ""
+
+#: widgets/widget-bio-block.php:40 widgets/widget-testimonial.php:99
+msgid "Avatar/Picture"
+msgstr ""
+
+#: widgets/widget-bio-block.php:41
+msgid "Upload an image to be displayed."
+msgstr ""
+
+#: widgets/widget-bio-block.php:52
+msgid "Enter this person's name."
+msgstr ""
+
+#: widgets/widget-bio-block.php:63 widgets/widget-testimonial.php:89
+msgid "Job Title/Description/Company"
+msgstr ""
+
+#: widgets/widget-bio-block.php:64 widgets/widget-testimonial.php:90
+msgid "Enter a job title, function and/or company name here."
+msgstr ""
+
+#: widgets/widget-bio-block.php:74 widgets/widget-event.php:52
+#: widgets/widget-icon-block.php:144 widgets/widget-portfolio-item.php:81
+#: widgets/widget-pricing-block.php:50 widgets/widget-progress-bar.php:45
+msgid "Description"
+msgstr ""
+
+#: widgets/widget-bio-block.php:75
+msgid "Enter a short description or introduction here, like a mini biography."
+msgstr ""
+
+#: widgets/widget-bio-block.php:87
+msgid "Display details on hover"
+msgstr ""
+
+#: widgets/widget-bio-block.php:88
+msgid ""
+"If this option is checked, details will only be displayed when the user "
+"hovers over the bio block."
+msgstr ""
+
+#: widgets/widget-bio-block.php:99 widgets/widget-link.php:86
+msgid "Define a URL to point this link to."
+msgstr ""
+
+#: widgets/widget-bio-block.php:131
+msgid "Facebook URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:142
+msgid "Twitter URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:153
+msgid "Google+ URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:164
+msgid "LinkedIn URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:175
+msgid "Instagram URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:186
+msgid "Pinterest URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:197
+msgid "Flickr URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:208
+msgid "Tumblr URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:219
+msgid "Foursquare URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:230
+msgid "YouTube URL"
+msgstr ""
+
+#: widgets/widget-bio-block.php:241
+msgid "Vimeo URL"
+msgstr ""
+
+#: widgets/widget-blog-posts.php:22
+msgid "INB Blog Posts"
+msgstr ""
+
+#: widgets/widget-blog-posts.php:24
+msgid "Displays the latest blog posts."
+msgstr ""
+
+#: widgets/widget-blog-posts.php:34 widgets/widget-comparison.php:36
+#: widgets/widget-contact.php:40 widgets/widget-countdown.php:36
+#: widgets/widget-gravityforms.php:51 widgets/widget-image.php:36
+#: widgets/widget-map.php:36 widgets/widget-payment-icons.php:63
+#: widgets/widget-portfolio-item.php:71 widgets/widget-recent-comments.php:35
+#: widgets/widget-recent-posts.php:35 widgets/widget-share.php:41
+#: widgets/widget-social-icons.php:41 widgets/widget-video.php:36
+msgid "Enter the widget title."
+msgstr ""
+
+#: widgets/widget-blog-posts.php:39
+msgid "Latest News"
+msgstr ""
+
+#: widgets/widget-blog-posts.php:44
+msgid "Categories"
+msgstr ""
+
+#: widgets/widget-blog-posts.php:54
+msgid "Amount of posts to display"
+msgstr ""
+
+#: widgets/widget-blog-posts.php:55
+msgid "Select how many blog posts you would like this widget to display."
+msgstr ""
+
+#: widgets/widget-blog-posts.php:65
+msgid "Select a layout to be used for this block."
+msgstr ""
+
+#: widgets/widget-blog-posts.php:91
+msgid "Minimal"
+msgstr ""
+
+#: widgets/widget-blog-posts.php:100
+msgid "Group by"
+msgstr ""
+
+#: widgets/widget-blog-posts.php:101
+msgid "Select how you would like to group posts in the timeline view."
+msgstr ""
+
+#: widgets/widget-blog-posts.php:125 widgets/widget-contact.php:71
+#: widgets/widget-gallery.php:87 widgets/widget-optin.php:87
+msgid "Columns"
+msgstr ""
+
+#: widgets/widget-blog-posts.php:126
+msgid ""
+"Select how many columns you would like to have for views that support "
+"columns."
+msgstr ""
+
+#: widgets/widget-blog-posts.php:154
+msgid "Excerpt length"
+msgstr ""
+
+#: widgets/widget-blog-posts.php:155
+msgid "Define how many words you would like to display in the excerpt."
+msgstr ""
+
+#: widgets/widget-button.php:41
+msgid "INB Button"
+msgstr ""
+
+#: widgets/widget-button.php:43
+msgid "Displays a button."
+msgstr ""
+
+#: widgets/widget-button.php:49 widgets/widget-pricing-block.php:52
+msgid "Button"
+msgstr ""
+
+#: widgets/widget-button.php:50 widgets/widget-contact.php:114
+#: widgets/widget-optin.php:130
+msgid "Hint"
+msgstr ""
+
+#: widgets/widget-button.php:61 widgets/widget-payment-icons.php:118
+#: widgets/widget-split-button.php:74
+msgid "Hint or Notice"
+msgstr ""
+
+#: widgets/widget-button.php:62 widgets/widget-split-button.php:75
+msgid "Optional hint to be displayed below the button."
+msgstr ""
+
+#: widgets/widget-button.php:77 widgets/widget-countdown.php:56
+#: widgets/widget-divider.php:34 widgets/widget-payment-icons.php:74
+#: widgets/widget-share.php:51 widgets/widget-social-icons.php:51
+#: widgets/widget-split-button.php:90 widgets/widget-split-button.php:191
+msgid "Style"
+msgstr ""
+
+#: widgets/widget-button.php:78 widgets/widget-cta-box.php:75
+#: widgets/widget-pricing-block.php:198 widgets/widget-split-button.php:91
+#: widgets/widget-split-button.php:192
+msgid "You can create and edit button styles via the theme's options panel."
+msgstr ""
+
+#: widgets/widget-button.php:88 widgets/widget-pricing-block.php:208
+msgid "Button Caption"
+msgstr ""
+
+#: widgets/widget-button.php:100 widgets/widget-icon-block.php:52
+#: widgets/widget-link.php:57 widgets/widget-split-button.php:114
+#: widgets/widget-split-button.php:215
+msgid "Select an icon for this item."
+msgstr ""
+
+#: widgets/widget-button.php:110 widgets/widget-icon-block.php:116
+#: widgets/widget-link.php:66 widgets/widget-split-button.php:124
+#: widgets/widget-split-button.php:225
+msgid "Icon Position"
+msgstr ""
+
+#: widgets/widget-button.php:111 widgets/widget-icon-block.php:117
+#: widgets/widget-link.php:67 widgets/widget-split-button.php:125
+#: widgets/widget-split-button.php:226
+msgid "Select where you would like the icon to be displayed."
+msgstr ""
+
+#: widgets/widget-button.php:117 widgets/widget-link.php:72
+#: widgets/widget-split-button.php:131 widgets/widget-split-button.php:232
+msgid "Left of caption"
+msgstr ""
+
+#: widgets/widget-button.php:121 widgets/widget-link.php:76
+#: widgets/widget-split-button.php:135 widgets/widget-split-button.php:236
+msgid "Right of caption"
+msgstr ""
+
+#: widgets/widget-button.php:130
+msgid "Button Link URL"
+msgstr ""
+
+#: widgets/widget-button.php:131 widgets/widget-event.php:97
+#: widgets/widget-icon-block.php:168 widgets/widget-split-button.php:145
+#: widgets/widget-split-button.php:246
+msgid "Define a link to point this button to."
+msgstr ""
+
+#: widgets/widget-button.php:141 widgets/widget-cta-box.php:131
+#: widgets/widget-icon-block.php:178 widgets/widget-image.php:90
+#: widgets/widget-link.php:95 widgets/widget-portfolio-item.php:152
+#: widgets/widget-pricing-block.php:230 widgets/widget-split-button.php:155
+#: widgets/widget-split-button.php:256
+msgid "Open Link in New Window"
+msgstr ""
+
+#: widgets/widget-button.php:152 widgets/widget-cta-box.php:141
+#: widgets/widget-icon-block.php:189 widgets/widget-link.php:105
+#: widgets/widget-pricing-block.php:241 widgets/widget-split-button.php:166
+#: widgets/widget-split-button.php:267
+msgid "Add \"nofollow\" attribute to link."
+msgstr ""
+
+#: widgets/widget-button.php:162 widgets/widget-cta-box.php:151
+#: widgets/widget-image.php:99 widgets/widget-link.php:114
+#: widgets/widget-pricing-block.php:252 widgets/widget-split-button.php:177
+#: widgets/widget-split-button.php:278
+msgid "Open Modal Window"
+msgstr ""
+
+#: widgets/widget-button.php:163 widgets/widget-cta-box.php:152
+#: widgets/widget-image.php:100 widgets/widget-link.php:115
+#: widgets/widget-pricing-block.php:253 widgets/widget-split-button.php:178
+msgid ""
+"Optional modal window to open instead of using a link. The feature pack plug-"
+"in is required."
+msgstr ""
+
+#: widgets/widget-comparison.php:22
+msgid "INB Image Comparison"
+msgstr ""
+
+#: widgets/widget-comparison.php:24
+msgid "Displays an image comparison slider."
+msgstr ""
+
+#: widgets/widget-comparison.php:41
+msgid "Comparison"
+msgstr ""
+
+#: widgets/widget-comparison.php:52
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/widget-comparison.php:56
+msgid "Vertical"
+msgstr ""
+
+#: widgets/widget-comparison.php:68
+msgid "Image 1"
+msgstr ""
+
+#: widgets/widget-comparison.php:69 widgets/widget-comparison.php:92
+#: widgets/widget-image.php:47 widgets/widget-portfolio-item.php:103
+msgid "Upload or select an image."
+msgstr ""
+
+#: widgets/widget-comparison.php:78 widgets/widget-comparison.php:84
+msgid "Label 1"
+msgstr ""
+
+#: widgets/widget-comparison.php:79 widgets/widget-comparison.php:102
+msgid "Enter a label for the first image."
+msgstr ""
+
+#: widgets/widget-comparison.php:91
+msgid "Image 2"
+msgstr ""
+
+#: widgets/widget-comparison.php:101 widgets/widget-comparison.php:107
+msgid "Label 2"
+msgstr ""
+
+#: widgets/widget-comparison.php:113
+msgid "Starting Position"
+msgstr ""
+
+#: widgets/widget-comparison.php:114
+msgid "Enter a value in percent."
+msgstr ""
+
+#: widgets/widget-contact.php:27
+msgid "INB Contact Form 7"
+msgstr ""
+
+#: widgets/widget-contact.php:29
+msgid "Displays a contact form."
+msgstr ""
+
+#: widgets/widget-contact.php:45 widgets/widget-gravityforms.php:56
+msgid "We will call you back"
+msgstr ""
+
+#: widgets/widget-contact.php:50 widgets/widget-gravityforms.php:61
+#: widgets/widget-optin.php:67
+msgid "Form"
+msgstr ""
+
+#: widgets/widget-contact.php:51 widgets/widget-gravityforms.php:62
+msgid ""
+"Select the form to be displayed. You can create new forms in Contact Form 7."
+msgstr ""
+
+#: widgets/widget-contact.php:61 widgets/widget-optin.php:77
+msgid "Display as"
+msgstr ""
+
+#: widgets/widget-contact.php:62 widgets/widget-optin.php:78
+msgid ""
+"Select whether you would like form fields to be displayed in rows (stacked) "
+"or columns (next to each other). If you opt to display form fields in "
+"columns, make sure that all fields fit into the widget container."
+msgstr ""
+
+#: widgets/widget-contact.php:67 widgets/widget-optin.php:83
+msgid "Rows"
+msgstr ""
+
+#: widgets/widget-contact.php:80 widgets/widget-optin.php:96
+msgid "Field Alignment"
+msgstr ""
+
+#: widgets/widget-contact.php:81 widgets/widget-optin.php:97
+msgid "Select how to align the form fields within the widget container."
+msgstr ""
+
+#: widgets/widget-contact.php:104 widgets/widget-optin.php:120
+msgid "Define border radius for form fields in px."
+msgstr ""
+
+#: widgets/widget-contact.php:115 widgets/widget-optin.php:131
+msgid "Enter a hint to be displayed below the opt-in form."
+msgstr ""
+
+#: widgets/widget-countdown.php:22
+msgid "INB Countdown"
+msgstr ""
+
+#: widgets/widget-countdown.php:24
+msgid "Displays a countdown."
+msgstr ""
+
+#: widgets/widget-countdown.php:41
+msgid "Countdown"
+msgstr ""
+
+#: widgets/widget-countdown.php:46
+msgid "Date"
+msgstr ""
+
+#: widgets/widget-countdown.php:47
+msgid "Define the date to count down to."
+msgstr ""
+
+#: widgets/widget-countdown.php:57
+msgid "Select what style you would like to apply to this countdown."
+msgstr ""
+
+#: widgets/widget-countdown.php:79
+msgid "Size"
+msgstr ""
+
+#: widgets/widget-countdown.php:80
+msgid "Select the relative size of the countdown."
+msgstr ""
+
+#: widgets/widget-countdown.php:128
+msgid "Days"
+msgstr ""
+
+#: widgets/widget-countdown.php:128
+msgid "Hours"
+msgstr ""
+
+#: widgets/widget-countdown.php:128
+msgid "Minutes"
+msgstr ""
+
+#: widgets/widget-countdown.php:128
+msgid "Seconds"
+msgstr ""
+
+#: widgets/widget-cta-box.php:40
+msgid "INB Call To Action Box"
+msgstr ""
+
+#: widgets/widget-cta-box.php:42
+msgid "Displays a call to action box with text and a button."
+msgstr ""
+
+#: widgets/widget-cta-box.php:52 widgets/widget-raw-html.php:35
+msgid "Enter text or custom mark-up here."
+msgstr ""
+
+#: widgets/widget-cta-box.php:62 widgets/widget-link.php:45
+msgid "Font Size"
+msgstr ""
+
+#: widgets/widget-cta-box.php:63
+msgid "Enter font size in pixels."
+msgstr ""
+
+#: widgets/widget-cta-box.php:74
+msgid "Call to Action Style"
+msgstr ""
+
+#: widgets/widget-cta-box.php:84
+msgid "Call to Action Position"
+msgstr ""
+
+#: widgets/widget-cta-box.php:89
+msgid "Left of text"
+msgstr ""
+
+#: widgets/widget-cta-box.php:93
+msgid "Right of text"
+msgstr ""
+
+#: widgets/widget-cta-box.php:97
+msgid "Above text"
+msgstr ""
+
+#: widgets/widget-cta-box.php:101
+msgid "Below text"
+msgstr ""
+
+#: widgets/widget-cta-box.php:110
+msgid "Call to Action"
+msgstr ""
+
+#: widgets/widget-cta-box.php:111
+msgid "Enter the button caption or call to action here."
+msgstr ""
+
+#: widgets/widget-cta-box.php:121
+msgid "Call to Action Link URL"
+msgstr ""
+
+#: widgets/widget-cta-box.php:142 widgets/widget-pricing-block.php:242
+msgid "Instruct search engines not to follow this link."
+msgstr ""
+
+#: widgets/widget-divider.php:22
+msgid "INB Divider"
+msgstr ""
+
+#: widgets/widget-divider.php:24
+msgid "Displays a divider."
+msgstr ""
+
+#: widgets/widget-divider.php:35
+msgid "Select a display style for this divider."
+msgstr ""
+
+#: widgets/widget-divider.php:40
+msgid "solid"
+msgstr ""
+
+#: widgets/widget-divider.php:44
+msgid "dashed"
+msgstr ""
+
+#: widgets/widget-divider.php:48
+msgid "dotted"
+msgstr ""
+
+#: widgets/widget-divider.php:52
+msgid "double"
+msgstr ""
+
+#: widgets/widget-divider.php:61 widgets/widget-image.php:56
+msgid "Alignment"
+msgstr ""
+
+#: widgets/widget-divider.php:62
+msgid "Select how you would like to align this divider."
+msgstr ""
+
+#: widgets/widget-divider.php:84 widgets/widget-map.php:98
+msgid "Height"
+msgstr ""
+
+#: widgets/widget-divider.php:85 widgets/widget-headline.php:229
+#: widgets/widget-headline.php:242
+msgid "Enter a value in pixels."
+msgstr ""
+
+#: widgets/widget-divider.php:96
+msgid "Width"
+msgstr ""
+
+#: widgets/widget-divider.php:97 widgets/widget-progress-bar.php:67
+msgid "Enter a value X of 100 percent."
+msgstr ""
+
+#: widgets/widget-divider.php:108
+msgid "Color"
+msgstr ""
+
+#: widgets/widget-event.php:22
+msgid "INB Event Block"
+msgstr ""
+
+#: widgets/widget-event.php:24
+msgid ""
+"Displays a block to advertise an upcoming event, including title, "
+"description, a link, date and time."
+msgstr ""
+
+#: widgets/widget-event.php:31
+msgid "Time"
+msgstr ""
+
+#: widgets/widget-event.php:41
+msgid "Enter the event title here."
+msgstr ""
+
+#: widgets/widget-event.php:53
+msgid "Enter a short description here."
+msgstr ""
+
+#: widgets/widget-event.php:66
+msgid "Upload an image to be displayed ."
+msgstr ""
+
+#: widgets/widget-event.php:76
+msgid "Speaker"
+msgstr ""
+
+#: widgets/widget-event.php:77
+msgid "Enter the name of a speaker here."
+msgstr ""
+
+#: widgets/widget-event.php:87
+msgid "Speaker Picture"
+msgstr ""
+
+#: widgets/widget-event.php:88
+msgid "Upload a speaker photo."
+msgstr ""
+
+#: widgets/widget-event.php:107
+msgid "Start Date"
+msgstr ""
+
+#: widgets/widget-event.php:108 widgets/widget-event.php:130
+msgid "Date, in any format."
+msgstr ""
+
+#: widgets/widget-event.php:118
+msgid "Start Time"
+msgstr ""
+
+#: widgets/widget-event.php:119 widgets/widget-event.php:141
+msgid "Time, in any format."
+msgstr ""
+
+#: widgets/widget-event.php:129
+msgid "End Date"
+msgstr ""
+
+#: widgets/widget-event.php:140
+msgid "End Time"
+msgstr ""
+
+#: widgets/widget-feature-image.php:22
+msgid "INB Feature Media"
+msgstr ""
+
+#: widgets/widget-feature-image.php:24
+msgid "Displays a feature image, slider, video clip or custom HTML on a shelf."
+msgstr ""
+
+#: widgets/widget-feature-image.php:33
+msgid "Presentation Image"
+msgstr ""
+
+#: widgets/widget-feature-image.php:34
+msgid "Pick a presentation image this item should be presented on."
+msgstr ""
+
+#: widgets/widget-feature-image.php:39
+msgid "Book shelf (Wood)"
+msgstr ""
+
+#: widgets/widget-feature-image.php:43
+msgid "Book shelf (Glass)"
+msgstr ""
+
+#: widgets/widget-feature-image.php:47
+msgid "Book shelf (Metal)"
+msgstr ""
+
+#: widgets/widget-feature-image.php:56
+msgid "Media"
+msgstr ""
+
+#: widgets/widget-feature-image.php:57
+msgid "Select which content should be displayed in this widget."
+msgstr ""
+
+#: widgets/widget-feature-image.php:66
+msgid "Video (oEmbed)"
+msgstr ""
+
+#: widgets/widget-feature-image.php:70
+msgid "Single Image"
+msgstr ""
+
+#: widgets/widget-feature-image.php:74
+msgid "Image Slider"
+msgstr ""
+
+#: widgets/widget-feature-image.php:83
+msgid "Custom Content or Video URL"
+msgstr ""
+
+#: widgets/widget-feature-image.php:84
+msgid "Custom HTML, video URL or integration code."
+msgstr ""
+
+#: widgets/widget-feature-image.php:94
+msgid "Feature Image"
+msgstr ""
+
+#: widgets/widget-feature-image.php:95
+msgid "Upload the feature image, e.g. a product shot."
+msgstr ""
+
+#: widgets/widget-feature-image.php:104
+msgid "Featured Image Slider"
+msgstr ""
+
+#: widgets/widget-feature-image.php:105
+msgid "Select multiple images if you would like to display a slider."
+msgstr ""
+
+#: widgets/widget-feature-image.php:114 widgets/widget-slider.php:43
+msgid "Slider Options"
+msgstr ""
+
+#: widgets/widget-gallery.php:23
+msgid "INB Gallery"
+msgstr ""
+
+#: widgets/widget-gallery.php:25
+msgid "Displays a gallery."
+msgstr ""
+
+#: widgets/widget-gallery.php:44 widgets/widget-portfolio-item.php:44
+msgid "Thumbnail"
+msgstr ""
+
+#: widgets/widget-gallery.php:48 widgets/widget-portfolio-item.php:48
+msgid "Full"
+msgstr ""
+
+#: widgets/widget-gallery.php:67 widgets/widget-slider.php:33
+msgid "Items"
+msgstr ""
+
+#: widgets/widget-gallery.php:68
+msgid ""
+"Select items to be displayed in this gallery. This is a comma-separated list "
+"of attachment IDs. Defaults to all current page's attachments."
+msgstr ""
+
+#: widgets/widget-gallery.php:77
+msgid "Image Size"
+msgstr ""
+
+#: widgets/widget-gallery.php:78 widgets/widget-portfolio-item.php:113
+msgid "Select a size. All sizes available to WordPress are displayed."
+msgstr ""
+
+#: widgets/widget-gallery.php:88
+msgid "How many items should be displayed per row?"
+msgstr ""
+
+#: widgets/widget-gallery.php:122
+msgid "Thumbnail Links"
+msgstr ""
+
+#: widgets/widget-gallery.php:123
+msgid "Select where you want thumbnails to link to."
+msgstr ""
+
+#: widgets/widget-gallery.php:128
+msgid "Attachment Page"
+msgstr ""
+
+#: widgets/widget-gallery.php:132
+msgid "File"
+msgstr ""
+
+#: widgets/widget-gravityforms.php:27
+msgid "INB Gravity Forms"
+msgstr ""
+
+#: widgets/widget-gravityforms.php:29
+msgid "Displays a Gravity Forms form."
+msgstr ""
+
+#: widgets/widget-gravityforms.php:71
+msgid "Display Title"
+msgstr ""
+
+#: widgets/widget-gravityforms.php:72
+msgid "Display the Gravity Forms title."
+msgstr ""
+
+#: widgets/widget-gravityforms.php:81
+msgid "Display Description"
+msgstr ""
+
+#: widgets/widget-gravityforms.php:82
+msgid "Display the Gravity Forms description."
+msgstr ""
+
+#: widgets/widget-gravityforms.php:91
+msgid "Use AJAX"
+msgstr ""
+
+#: widgets/widget-gravityforms.php:92
+msgid "Submit forms via AJAX, without leaving the page."
+msgstr ""
+
+#: widgets/widget-headline.php:22
+msgid "INB Headline"
+msgstr ""
+
+#: widgets/widget-headline.php:24
+msgid "Displays a headline."
+msgstr ""
+
+#: widgets/widget-headline.php:33
+msgid "Text Style"
+msgstr ""
+
+#: widgets/widget-headline.php:34 widgets/widget-pricing-block.php:54
+msgid "Design"
+msgstr ""
+
+#: widgets/widget-headline.php:41
+msgid "Headline Style"
+msgstr ""
+
+#: widgets/widget-headline.php:48
+msgid "No Decoration"
+msgstr ""
+
+#: widgets/widget-headline.php:52
+msgid "Solid Background"
+msgstr ""
+
+#: widgets/widget-headline.php:56
+msgid "Border Top"
+msgstr ""
+
+#: widgets/widget-headline.php:60
+msgid "Border Bottom"
+msgstr ""
+
+#: widgets/widget-headline.php:64
+msgid "Border Top/Bottom"
+msgstr ""
+
+#: widgets/widget-headline.php:68
+msgid "Border Left"
+msgstr ""
+
+#: widgets/widget-headline.php:72
+msgid "Border Right"
+msgstr ""
+
+#: widgets/widget-headline.php:76
+msgid "Border Left/Right"
+msgstr ""
+
+#: widgets/widget-headline.php:85 widgets/widget-icon.php:116
+msgid "Border Width"
+msgstr ""
+
+#: widgets/widget-headline.php:86 widgets/widget-headline.php:99
+msgid "Enter a value in px or %."
+msgstr ""
+
+#: widgets/widget-headline.php:98
+msgid "Border Height"
+msgstr ""
+
+#: widgets/widget-headline.php:111
+msgid "Border/Background Color"
+msgstr ""
+
+#: widgets/widget-headline.php:112
+msgid ""
+"Select a border color. The same color will be used if a solid background is "
+"selected."
+msgstr ""
+
+#: widgets/widget-headline.php:123
+msgid "Select a text color."
+msgstr ""
+
+#: widgets/widget-headline.php:135
+msgid "Headline"
+msgstr ""
+
+#: widgets/widget-headline.php:146
+msgid "Headline Type"
+msgstr ""
+
+#: widgets/widget-headline.php:181
+msgid "Sub Headline"
+msgstr ""
+
+#: widgets/widget-headline.php:182
+msgid "Enter the sub headline title."
+msgstr ""
+
+#: widgets/widget-headline.php:193
+msgid "Sub Headline Type"
+msgstr ""
+
+#: widgets/widget-headline.php:228
+msgid "Line Height"
+msgstr ""
+
+#: widgets/widget-headline.php:241
+msgid "Letter Spacing"
+msgstr ""
+
+#: widgets/widget-icon-block.php:22
+msgid "INB Icon Block"
+msgstr ""
+
+#: widgets/widget-icon-block.php:24
+msgid "Displays a block with an icon, a headline and a description."
+msgstr ""
+
+#: widgets/widget-icon-block.php:32 widgets/widget-progress-bar.php:87
+msgid "Link"
+msgstr ""
+
+#: widgets/widget-icon-block.php:40
+msgid "Title or headline for this item."
+msgstr ""
+
+#: widgets/widget-icon-block.php:62 widgets/widget-icon-list.php:43
+#: widgets/widget-icon.php:106
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/widget-icon-block.php:63 widgets/widget-icon.php:107
+msgid "Select a icon color."
+msgstr ""
+
+#: widgets/widget-icon-block.php:73
+msgid "Custom Icon Image"
+msgstr ""
+
+#: widgets/widget-icon-block.php:74
+msgid "Upload an image to be displayed instead of an icon font icon."
+msgstr ""
+
+#: widgets/widget-icon-block.php:84 widgets/widget-icon.php:42
+#: widgets/widget-payment-icons.php:94 widgets/widget-share.php:78
+#: widgets/widget-social-icons.php:78
+msgid "Icon Size"
+msgstr ""
+
+#: widgets/widget-icon-block.php:85 widgets/widget-icon.php:43
+msgid "Select the size for the icon you would like to display."
+msgstr ""
+
+#: widgets/widget-icon-block.php:123
+msgid "Left of description"
+msgstr ""
+
+#: widgets/widget-icon-block.php:127
+msgid "Right of description"
+msgstr ""
+
+#: widgets/widget-icon-block.php:131
+msgid "Above description"
+msgstr ""
+
+#: widgets/widget-icon-block.php:135
+msgid "No Icon"
+msgstr ""
+
+#: widgets/widget-icon-block.php:145
+msgid "Description for this item."
+msgstr ""
+
+#: widgets/widget-icon-block.php:156 widgets/widget-link.php:34
+msgid "Link Text"
+msgstr ""
+
+#: widgets/widget-icon-block.php:157 widgets/widget-link.php:37
+msgid "This is the actual anchor text."
+msgstr ""
+
+#: widgets/widget-icon-list.php:22
+msgid "INB Icon List"
+msgstr ""
+
+#: widgets/widget-icon-list.php:24
+msgid "Displays an unordered list with an icon for each list element."
+msgstr ""
+
+#: widgets/widget-icon-list.php:34
+msgid "Select an icon to be used for all elements in this list."
+msgstr ""
+
+#: widgets/widget-icon-list.php:44
+msgid "Select a list icon color."
+msgstr ""
+
+#: widgets/widget-icon-list.php:53
+msgid "List Items"
+msgstr ""
+
+#: widgets/widget-icon-list.php:54
+msgid "One item per row."
+msgstr ""
+
+#: widgets/widget-icon.php:21
+msgid "INB Icon"
+msgstr ""
+
+#: widgets/widget-icon.php:23
+msgid "Displays an icon."
+msgstr ""
+
+#: widgets/widget-icon.php:33
+msgid "Select an icon."
+msgstr ""
+
+#: widgets/widget-icon.php:73
+msgid "Shape"
+msgstr ""
+
+#: widgets/widget-icon.php:74
+msgid ""
+"Select the shape for this icon, if a background colour or border is selected."
+msgstr ""
+
+#: widgets/widget-icon.php:79 widgets/widget-payment-icons.php:36
+msgid "Square"
+msgstr ""
+
+#: widgets/widget-icon.php:83
+msgid "Rounded"
+msgstr ""
+
+#: widgets/widget-icon.php:87
+msgid "Circle"
+msgstr ""
+
+#: widgets/widget-icon.php:97
+msgid "Select a background color for this icon."
+msgstr ""
+
+#: widgets/widget-icon.php:117
+msgid "Enter a value in px."
+msgstr ""
+
+#: widgets/widget-icon.php:128
+msgid "Border Style"
+msgstr ""
+
+#: widgets/widget-icon.php:133
+msgid "Solid"
+msgstr ""
+
+#: widgets/widget-icon.php:137
+msgid "Dashed"
+msgstr ""
+
+#: widgets/widget-icon.php:141
+msgid "Dotted"
+msgstr ""
+
+#: widgets/widget-icon.php:150 widgets/widget-pricing-block.php:329
+msgid "Border Color"
+msgstr ""
+
+#: widgets/widget-icon.php:151
+msgid "Select a border color for this icon."
+msgstr ""
+
+#: widgets/widget-image.php:22
+msgid "INB Image"
+msgstr ""
+
+#: widgets/widget-image.php:24
+msgid "Displays a simple image."
+msgstr ""
+
+#: widgets/widget-image.php:57
+msgid "Select how to align the image relative to the surrounding content."
+msgstr ""
+
+#: widgets/widget-image.php:80 widgets/widget-portfolio-item.php:142
+msgid "Enter an optional URL to link the image to."
+msgstr ""
+
+#: widgets/widget-link.php:22
+msgid "INB Link"
+msgstr ""
+
+#: widgets/widget-link.php:24
+msgid "Displays a text link."
+msgstr ""
+
+#: widgets/widget-link.php:46
+msgid "Define the font size for this link in px."
+msgstr ""
+
+#: widgets/widget-map.php:22
+msgid "INB Map"
+msgstr ""
+
+#: widgets/widget-map.php:24
+msgid "Displays a map."
+msgstr ""
+
+#: widgets/widget-map.php:41
+msgid "Map"
+msgstr ""
+
+#: widgets/widget-map.php:46
+msgid "Address or Coordinates"
+msgstr ""
+
+#: widgets/widget-map.php:47
+msgid "Enter an address or geographical coordinates here."
+msgstr ""
+
+#: widgets/widget-map.php:54
+msgid "1600 Amphitheatre Pkwy, Mountain View, CA 94043"
+msgstr ""
+
+#: widgets/widget-map.php:59
+msgid "Map Type"
+msgstr ""
+
+#: widgets/widget-map.php:60
+msgid "Select which map type to use for this widget."
+msgstr ""
+
+#: widgets/widget-map.php:65
+msgid "Hybrid"
+msgstr ""
+
+#: widgets/widget-map.php:69
+msgid "Roadmap"
+msgstr ""
+
+#: widgets/widget-map.php:73
+msgid "Satellite"
+msgstr ""
+
+#: widgets/widget-map.php:77
+msgid "Terrain"
+msgstr ""
+
+#: widgets/widget-map.php:86
+msgid "Zoom Level"
+msgstr ""
+
+#: widgets/widget-map.php:87
+msgid "Enter a value."
+msgstr ""
+
+#: widgets/widget-map.php:99
+msgid "Define the default height of this map in pixels."
+msgstr ""
+
+#: widgets/widget-optin.php:22
+msgid "INB Opt-In Form"
+msgstr ""
+
+#: widgets/widget-optin.php:24
+msgid "Displays an opt-in form."
+msgstr ""
+
+#: widgets/widget-optin.php:53
+msgid "Forms are retrieved from Theme Options &#8594; Forms."
+msgstr ""
+
+#: widgets/widget-optin.php:57 widgets/widget-progress-bar.php:35
+msgid "Enter the headline title."
+msgstr ""
+
+#: widgets/widget-optin.php:62
+msgid "Sign up now for updates"
+msgstr ""
+
+#: widgets/widget-optin.php:68
+msgid "Select an opt-in form to use for this widget."
+msgstr ""
+
+#: widgets/widget-payment-icons.php:22
+msgid "2Checkout"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:23
+msgid "Amazon"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:24
+msgid "American Express"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:25
+msgid "Bitcoin"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:26
+msgid "Cirrus"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:27
+msgid "Credit Card (Generic)"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:28
+msgid "Discover"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:29
+msgid "eBay"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:30
+msgid "Google Wallet"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:31
+msgid "Maestro"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:32
+msgid "MasterCard"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:33
+msgid "PayPal"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:34
+msgid "Skrill"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:35
+msgid "Solo"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:37
+msgid "Visa"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:38
+msgid "Western Union"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:45
+msgid "INB Payment Icons"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:47
+msgid "Displays a set of payment icons."
+msgstr ""
+
+#: widgets/widget-payment-icons.php:54
+msgid "Services"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:69
+msgid "Accepted Payment Methods"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:75
+msgid "Select which style to use for the payment icons."
+msgstr ""
+
+#: widgets/widget-payment-icons.php:81
+msgid "Full Color"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:85
+msgid "Greyscale"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:95
+msgid "Select which size to use for these payment icons."
+msgstr ""
+
+#: widgets/widget-payment-icons.php:119
+msgid "Optional hint to be displayed below the icons."
+msgstr ""
+
+#: widgets/widget-payment-icons.php:131
+msgid "Payment Icons"
+msgstr ""
+
+#: widgets/widget-payment-icons.php:132
+msgid "Select payment icons to display."
+msgstr ""
+
+#: widgets/widget-portfolio-item.php:22
+msgid "INB Portfolio Item"
+msgstr ""
+
+#: widgets/widget-portfolio-item.php:24
+msgid "Displays an image as a portfolio item."
+msgstr ""
+
+#: widgets/widget-portfolio-item.php:82
+msgid "Enter a description or any additional text or mark-up here."
+msgstr ""
+
+#: widgets/widget-portfolio-item.php:92
+msgid "Title and description only on hover"
+msgstr ""
+
+#: widgets/widget-portfolio-item.php:93
+msgid ""
+"If this option is checked, title and description will only be displayed if "
+"the user moves the mouse cursor over the item."
+msgstr ""
+
+#: widgets/widget-portfolio-item.php:112
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: widgets/widget-portfolio-item.php:122
+msgid "Link Type"
+msgstr ""
+
+#: widgets/widget-portfolio-item.php:123
+msgid "Select where this link should point to."
+msgstr ""
+
+#: widgets/widget-portfolio-item.php:128
+msgid "Open URL in browser"
+msgstr ""
+
+#: widgets/widget-portfolio-item.php:132
+msgid "Open lightbox and display image in full size"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:42
+msgid "INB Pricing Block"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:44
+msgid "Displays a pricing table element."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:51 widgets/widget-pricing-block.php:165
+msgid "Price"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:53
+msgid "Badge"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:64
+msgid "Package or product title."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:75
+msgid "Sub Title"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:76
+msgid "Sub title, or additional package description."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:87
+msgid "Featured Package"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:88
+msgid "Select, whether this item should be highlighted."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:98
+msgid "Description or Features"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:99
+msgid "One feature per line, or plain text product description."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:111
+msgid "Description Mode"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:112
+msgid "Select how you would like the widget to handle the description field."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:134
+msgid "Currency Symbol"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:135
+msgid "Define the currency symbol, e.g. $ or USD."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:140
+msgid "$"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:145
+msgid "Currency Symbol Location"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:146
+msgid "Select where you would like the currency symbol to be displayed."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:152
+msgid "Before price"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:156
+msgid "After price"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:166
+msgid "Define the price for this package."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:197
+msgid "Button Style"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:209
+msgid "Define a caption for the call to action button."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:214
+msgid "Buy Now"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:220
+msgid "Define a link to point this package to."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:231
+msgid "Select, whether this link should be opened in a new window."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:267
+msgid "This is the actual text shown on the badge"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:317
+msgid "Add Border"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:318
+msgid "Select, whether you would like to add a border to this block."
+msgstr ""
+
+#: widgets/widget-pricing-block.php:340
+msgid "Add Drop Shadow"
+msgstr ""
+
+#: widgets/widget-pricing-block.php:341
+msgid "Select, whether you would like to add a drop shadow to this block."
+msgstr ""
+
+#: widgets/widget-progress-bar.php:22
+msgid "INB Progress Bar"
+msgstr ""
+
+#: widgets/widget-progress-bar.php:24
+msgid "Displays a progress bar."
+msgstr ""
+
+#: widgets/widget-progress-bar.php:46
+msgid "Enter a description or sub headline."
+msgstr ""
+
+#: widgets/widget-progress-bar.php:57
+msgid "Select an icon to be added to this progress bar."
+msgstr ""
+
+#: widgets/widget-progress-bar.php:66
+msgid "Progress Value"
+msgstr ""
+
+#: widgets/widget-progress-bar.php:77
+msgid "Bar Color"
+msgstr ""
+
+#: widgets/widget-progress-bar.php:78
+msgid "Select a foreground color for the bar indicating the progress."
+msgstr ""
+
+#: widgets/widget-progress-bar.php:88
+msgid "Enter an optional link URL to point this item to."
+msgstr ""
+
+#: widgets/widget-progress-bar.php:150
+msgid "of"
+msgstr ""
+
+#: widgets/widget-raw-html.php:22
+msgid "INB Raw HTML"
+msgstr ""
+
+#: widgets/widget-raw-html.php:24
+msgid "Renders any custom HTML with shortcodes."
+msgstr ""
+
+#: widgets/widget-recent-comments.php:22
+msgid "INB Recent Comments"
+msgstr ""
+
+#: widgets/widget-recent-comments.php:24
+msgid "Displays the most recent comments."
+msgstr ""
+
+#: widgets/widget-recent-comments.php:39
+msgid "Recent Comments"
+msgstr ""
+
+#: widgets/widget-recent-comments.php:44
+msgid "Amount of comments to show"
+msgstr ""
+
+#: widgets/widget-recent-comments.php:45
+msgid "Enter an amount of comments you would like to display."
+msgstr ""
+
+#: widgets/widget-recent-posts.php:22
+msgid "INB Recent Posts"
+msgstr ""
+
+#: widgets/widget-recent-posts.php:24
+msgid "Displays the most recent posts."
+msgstr ""
+
+#: widgets/widget-recent-posts.php:39
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/widget-recent-posts.php:44
+msgid "Amount of posts to show"
+msgstr ""
+
+#: widgets/widget-recent-posts.php:45
+msgid "Enter an amount of posts you would like to display."
+msgstr ""
+
+#: widgets/widget-share.php:22
+msgid "INB Social Sharing"
+msgstr ""
+
+#: widgets/widget-share.php:24
+msgid "Displays sharing links to social networks on single pages."
+msgstr ""
+
+#: widgets/widget-share.php:33 widgets/widget-social-icons.php:33
+msgid "Info"
+msgstr ""
+
+#: widgets/widget-share.php:34
+msgid ""
+"Select display options. You can define social icons to be used for this "
+"widget through the Theme Options panel."
+msgstr ""
+
+#: widgets/widget-share.php:46
+msgid "Share"
+msgstr ""
+
+#: widgets/widget-share.php:52 widgets/widget-social-icons.php:52
+msgid "Select what style you would like to apply to these social icons."
+msgstr ""
+
+#: widgets/widget-share.php:69 widgets/widget-social-icons.php:69
+msgid "Solid color"
+msgstr ""
+
+#: widgets/widget-share.php:79 widgets/widget-social-icons.php:79
+msgid "Select what icon size should be used for this widget."
+msgstr ""
+
+#: widgets/widget-slider.php:22
+msgid "INB Image Slider"
+msgstr ""
+
+#: widgets/widget-slider.php:24
+msgid "Displays an image slider."
+msgstr ""
+
+#: widgets/widget-slider.php:34
+msgid "Select items to be displayed in this slider."
+msgstr ""
+
+#: widgets/widget-social-icons.php:22
+msgid "INB Social Icons"
+msgstr ""
+
+#: widgets/widget-social-icons.php:24
+msgid "Displays social profile links with icons."
+msgstr ""
+
+#: widgets/widget-social-icons.php:34
+msgid ""
+"Select display options. You can define social icons to be used for this "
+"widget through the profile."
+msgstr ""
+
+#: widgets/widget-social-icons.php:46
+msgid "Follow us"
+msgstr ""
+
+#: widgets/widget-split-button.php:41
+msgid "INB Split Button"
+msgstr ""
+
+#: widgets/widget-split-button.php:43
+msgid "Displays a split button."
+msgstr ""
+
+#: widgets/widget-split-button.php:50
+msgid "Left Button"
+msgstr ""
+
+#: widgets/widget-split-button.php:51
+msgid "Right Button"
+msgstr ""
+
+#: widgets/widget-split-button.php:52
+msgid "Other"
+msgstr ""
+
+#: widgets/widget-split-button.php:63
+msgid "Render as two separate buttons"
+msgstr ""
+
+#: widgets/widget-split-button.php:64
+msgid "If this option is selected, the two buttons will be visually separated."
+msgstr ""
+
+#: widgets/widget-split-button.php:101
+msgid "Left Button Caption"
+msgstr ""
+
+#: widgets/widget-split-button.php:144
+msgid "Left Button Link URL"
+msgstr ""
+
+#: widgets/widget-split-button.php:202
+msgid "Right Button Caption"
+msgstr ""
+
+#: widgets/widget-split-button.php:245
+msgid "Right Button Link URL"
+msgstr ""
+
+#: widgets/widget-split-button.php:279
+msgid ""
+"Optional modal window to open instead of using a link. The modals plug-in is "
+"required."
+msgstr ""
+
+#: widgets/widget-testimonial.php:22
+msgid "INB Testimonial"
+msgstr ""
+
+#: widgets/widget-testimonial.php:24
+msgid "Displays a testimonial."
+msgstr ""
+
+#: widgets/widget-testimonial.php:40
+msgid "Testimonial"
+msgstr ""
+
+#: widgets/widget-testimonial.php:50
+msgid "Speech Bubble"
+msgstr ""
+
+#: widgets/widget-testimonial.php:54
+msgid "Elegant"
+msgstr ""
+
+#: widgets/widget-testimonial.php:67
+msgid "Quote"
+msgstr ""
+
+#: widgets/widget-testimonial.php:68
+msgid "Enter the actual testimonial text here."
+msgstr ""
+
+#: widgets/widget-testimonial.php:80
+msgid "Enter the quoted person's name."
+msgstr ""
+
+#: widgets/widget-testimonial.php:100
+msgid "Upload an image to be displayed with this testimonial."
+msgstr ""
+
+#: widgets/widget-video.php:22
+msgid "INB Embedded Video"
+msgstr ""
+
+#: widgets/widget-video.php:24
+msgid "Displays an embedded video."
+msgstr ""
+
+#: widgets/widget-video.php:46
+msgid "Video URL or Custom Embed Code"
+msgstr ""
+
+#: widgets/widget-video.php:47
+msgid ""
+"Enter a plain video URL, or an embed code. If using custom embed codes, make "
+"sure you modify it to be responsive."
+msgstr ""
+
+#: widgets/widget-video.php:58
+msgid "Embed Mode"
+msgstr ""
+
+#: widgets/widget-video.php:59
+msgid "Select which embed mode you would like to use."
+msgstr ""
+
+#: widgets/widget-video.php:64
+msgid "oEmbed from plain URL"
+msgstr ""
+
+#: widgets/widget-video.php:68
+msgid "Custom integration code"
+msgstr ""
+
+#: widgets/widget-video.php:72
+msgid "Custom integration code, with responsive wrapper"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:16
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:17
+msgid "View Details"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:16
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.shapingrain.com/products/inbound/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Landing Page That Converts"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.shapingrain.com/"
+msgstr ""

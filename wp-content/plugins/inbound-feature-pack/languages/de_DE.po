@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Inbound Core Feature Pack\n"
+"POT-Creation-Date: 2015-12-07 17:41-0800\n"
+"PO-Revision-Date: 2015-12-07 17:41-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: feature-pack.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: banners.php:155
+msgid "Banner Location - Edit in Banner Editor"
+msgstr "Banner - im Banner-Editor bearbeiten"
+
+#: feature-pack.php:58
+msgid ""
+"<strong>Inbound Feature Pack</strong> requires the Inbound theme "
+"and has been <strong>deactivated</strong>."
+msgstr ""
+"<strong>Inbound Feature Pack</strong> erfordert das Theme Off the "
+"Shelf und wurde <strong>deaktiviert</strong>."
+
+#: libs/class.custom-post-types.php:50 libs/class.custom-post-types.php:51
+#, php-format
+msgid "Add New %s"
+msgstr "Neue %s hinzufügen"
+
+#: libs/class.custom-post-types.php:52
+#, php-format
+msgid "Edit %s"
+msgstr "%s bearbeiten"
+
+#: libs/class.custom-post-types.php:53
+#, php-format
+msgid "New %s"
+msgstr "Neue %s"
+
+#: libs/class.custom-post-types.php:54
+#, php-format
+msgid "All %s"
+msgstr "Alle %s"
+
+#: libs/class.custom-post-types.php:55
+#, php-format
+msgid "View %s"
+msgstr "%s anzeigen"
+
+#: libs/class.custom-post-types.php:56
+#, php-format
+msgid "Search %s"
+msgstr "Suche %s"
+
+#: libs/class.custom-post-types.php:57
+#, php-format
+msgid "No %s found"
+msgstr "Keine %s gefunden"
+
+#: libs/class.custom-post-types.php:58
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Keine %s im Papierkorb gefunden"
+
+#: modals.php:51
+msgid "Modal Window Location - Edit in Modal Window Editor"
+msgstr "Modalefenster - im Modalfenster-Editor bearbeiten"
+
+#: tools.php:12
+msgid "No post to duplicate has been supplied!"
+msgstr "Es liegt kein Beitrag vor, der dupliziert werden könnte!"
+
+#: tools.php:103
+msgid "Duplicate this item"
+msgstr "Duplizieren Sie dieses Element"
+
+#: tools.php:103
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+#. Plugin Name of the plugin/theme
+msgid "Inbound Core Feature Pack"
+msgstr "Inbound Core Feature Pack"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.shapingrain.com/"
+msgstr "http://www.shapingrain.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Provides profiles, banners, modal windows and advanced shortcodes for the "
+"Inbound theme."
+msgstr ""
+"Stellt Profile, Banner, Modalfenster und erweiterte Shortcodes zum Off the "
+"Shelf Theme zur Verfügung."
+
+#. Author of the plugin/theme
+msgid "ShapingRain.com Labs"
+msgstr "ShapingRain.com Labor"

@@ -1,0 +1,106 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Inbound Core Feature Pack\n"
+"POT-Creation-Date: 2015-10-16 20:17-0700\n"
+"PO-Revision-Date: 2015-10-16 20:04-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: feature-pack.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: banners.php:144
+msgid "Banner Location - Edit in Banner Editor"
+msgstr ""
+
+#: feature-pack.php:50
+msgid ""
+"<strong>Inbound Feature Pack</strong> requires the Inbound "
+"theme and has been <strong>deactivated</strong>."
+msgstr ""
+
+#: libs/class.custom-post-types.php:50 libs/class.custom-post-types.php:51
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: libs/class.custom-post-types.php:52
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: libs/class.custom-post-types.php:53
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: libs/class.custom-post-types.php:54
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: libs/class.custom-post-types.php:55
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: libs/class.custom-post-types.php:56
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: libs/class.custom-post-types.php:57
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: libs/class.custom-post-types.php:58
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: modals.php:51
+msgid "Modal Window Location - Edit in Modal Window Editor"
+msgstr ""
+
+#: tools.php:12
+msgid "No post to duplicate has been supplied!"
+msgstr ""
+
+#: tools.php:103
+msgid "Duplicate this item"
+msgstr ""
+
+#: tools.php:103
+msgid "Duplicate"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Inbound Core Feature Pack"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.shapingrain.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Provides profiles, banners, modal windows and advanced shortcodes for the "
+"Inbound theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ShapingRain.com Labs"
+msgstr ""
